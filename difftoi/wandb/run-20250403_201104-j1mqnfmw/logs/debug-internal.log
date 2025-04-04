@@ -1,0 +1,20 @@
+{"time":"2025-04-03T20:11:04.7563105-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\UofT\\ConvexOptimization\\difftoi\\difftoi\\wandb\\run-20250403_201104-j1mqnfmw\\logs\\debug-core.log"}
+{"time":"2025-04-03T20:11:04.9113083-04:00","level":"INFO","msg":"created new stream","id":"j1mqnfmw"}
+{"time":"2025-04-03T20:11:04.9113083-04:00","level":"INFO","msg":"stream: started","id":"j1mqnfmw"}
+{"time":"2025-04-03T20:11:04.9113083-04:00","level":"INFO","msg":"handler: started","stream_id":"j1mqnfmw"}
+{"time":"2025-04-03T20:11:04.9113083-04:00","level":"INFO","msg":"sender: started","stream_id":"j1mqnfmw"}
+{"time":"2025-04-03T20:11:04.9113083-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"j1mqnfmw"}
+{"time":"2025-04-03T20:11:05.1272974-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T21:08:32.84916-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-03T21:15:14.632575-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-03T21:15:14.6350967-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-03T21:15:29.6325545-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-03T21:15:30.4302085-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-03T21:15:34.6802437-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-03T21:15:34.6822445-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-03T21:15:36.0618647-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-03T21:15:36.089053-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-03T21:15:36.3642906-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-03T21:29:01.2418102-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-03T21:29:01.2694623-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-03T21:29:01.2787421-04:00","level":"INFO","msg":"Pausing system monitor"}

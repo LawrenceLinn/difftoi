@@ -1,0 +1,6285 @@
+WARNING:root:'torchcodec' is not available in your platform, falling back to 'pyav' as a default decoder
+Epoch 1/1000
+Evaluating:  14%|█▎        | 9/66 [00:22<02:20,  2.46s/it]
+Epoch 1, Batch 1, Loss: 4.015, LR: 0.000100
+Epoch 1:   2%|▏         | 28/1536 [00:47<04:12,  5.97it/s]  
+Step 0 Eval Loss: 18.294
+Global Step: 1
+Global Step: 2
+Global Step: 3
+Global Step: 4
+Global Step: 5
+Global Step: 6
+Global Step: 7
+Global Step: 8
+Global Step: 9
+Global Step: 10
+Epoch 1, Batch 11, Loss: 5.022, LR: 0.000100
+Global Step: 11
+Global Step: 12
+Global Step: 13
+Global Step: 14
+Global Step: 15
+Global Step: 16
+Global Step: 17
+Global Step: 18
+Global Step: 19
+Global Step: 20
+Epoch 1, Batch 21, Loss: 6.779, LR: 0.000100
+Global Step: 21
+Global Step: 22
+Global Step: 23
+Global Step: 24
+Global Step: 25
+Global Step: 26
+Global Step: 27
+Global Step: 28
+Global Step: 29
+Global Step: 30
+Epoch 1, Batch 31, Loss: 9.948, LR: 0.000100
+Global Step: 31
+Global Step: 32
+Global Step: 33
+Global Step: 34
+Global Step: 35
+Global Step: 36
+Global Step: 37
+Global Step: 38
+Global Step: 39
+Global Step: 40
+Epoch 1, Batch 41, Loss: 10.268, LR: 0.000100
+Global Step: 41
+Global Step: 42
+Global Step: 43
+Global Step: 44
+Global Step: 45
+Global Step: 46
+Global Step: 47
+Global Step: 48
+Global Step: 49
+Global Step: 50
+Epoch 1, Batch 51, Loss: 14.741, LR: 0.000100
+Epoch 1:   5%|▌         | 78/1536 [01:17<04:25,  5.50it/s]  
+Step 50 Eval Loss: 66.557
+Global Step: 51
+Global Step: 52
+Global Step: 53
+Global Step: 54
+Global Step: 55
+Global Step: 56
+Global Step: 57
+Global Step: 58
+Global Step: 59
+Global Step: 60
+Epoch 1, Batch 61, Loss: 15.125, LR: 0.000100
+Global Step: 61
+Global Step: 62
+Global Step: 63
+Global Step: 64
+Global Step: 65
+Global Step: 66
+Global Step: 67
+Global Step: 68
+Global Step: 69
+Global Step: 70
+Epoch 1, Batch 71, Loss: 17.372, LR: 0.000100
+Global Step: 71
+Global Step: 72
+Global Step: 73
+Global Step: 74
+Global Step: 75
+Global Step: 76
+Global Step: 77
+Global Step: 78
+Global Step: 79
+Global Step: 80
+Epoch 1, Batch 81, Loss: 15.797, LR: 0.000100
+Global Step: 81
+Global Step: 82
+Global Step: 83
+Global Step: 84
+Global Step: 85
+Global Step: 86
+Global Step: 87
+Global Step: 88
+Global Step: 89
+Global Step: 90
+Epoch 1, Batch 91, Loss: 19.674, LR: 0.000100
+Global Step: 91
+Global Step: 92
+Global Step: 93
+Global Step: 94
+Global Step: 95
+Global Step: 96
+Global Step: 97
+Global Step: 98
+Global Step: 99
+Global Step: 100
+Epoch 1, Batch 101, Loss: 18.428, LR: 0.000100
+Epoch 1:   8%|▊         | 128/1536 [01:48<04:33,  5.15it/s]  
+Step 100 Eval Loss: 88.684
+Global Step: 101
+Global Step: 102
+Global Step: 103
+Global Step: 104
+Global Step: 105
+Global Step: 106
+Global Step: 107
+Global Step: 108
+Global Step: 109
+Global Step: 110
+Epoch 1, Batch 111, Loss: 20.899, LR: 0.000100
+Global Step: 111
+Global Step: 112
+Global Step: 113
+Global Step: 114
+Global Step: 115
+Global Step: 116
+Global Step: 117
+Global Step: 118
+Global Step: 119
+Global Step: 120
+Epoch 1, Batch 121, Loss: 21.110, LR: 0.000100
+Global Step: 121
+Global Step: 122
+Global Step: 123
+Global Step: 124
+Global Step: 125
+Global Step: 126
+Global Step: 127
+Global Step: 128
+Global Step: 129
+Global Step: 130
+Epoch 1, Batch 131, Loss: 17.347, LR: 0.000100
+Global Step: 131
+Global Step: 132
+Global Step: 133
+Global Step: 134
+Global Step: 135
+Global Step: 136
+Global Step: 137
+Global Step: 138
+Global Step: 139
+Global Step: 140
+Epoch 1, Batch 141, Loss: 20.628, LR: 0.000100
+Global Step: 141
+Global Step: 142
+Global Step: 143
+Global Step: 144
+Global Step: 145
+Global Step: 146
+Global Step: 147
+Global Step: 148
+Global Step: 149
+Global Step: 150
+Epoch 1, Batch 151, Loss: 22.503, LR: 0.000100
+Epoch 1:  12%|█▏        | 178/1536 [02:18<04:02,  5.61it/s]  
+Step 150 Eval Loss: 95.456
+Global Step: 151
+Global Step: 152
+Global Step: 153
+Global Step: 154
+Global Step: 155
+Global Step: 156
+Global Step: 157
+Global Step: 158
+Global Step: 159
+Global Step: 160
+Epoch 1, Batch 161, Loss: 21.802, LR: 0.000100
+Global Step: 161
+Global Step: 162
+Global Step: 163
+Global Step: 164
+Global Step: 165
+Global Step: 166
+Global Step: 167
+Global Step: 168
+Global Step: 169
+Global Step: 170
+Epoch 1, Batch 171, Loss: 22.552, LR: 0.000100
+Global Step: 171
+Global Step: 172
+Global Step: 173
+Global Step: 174
+Global Step: 175
+Global Step: 176
+Global Step: 177
+Global Step: 178
+Global Step: 179
+Global Step: 180
+Epoch 1, Batch 181, Loss: 21.199, LR: 0.000100
+Global Step: 181
+Global Step: 182
+Global Step: 183
+Global Step: 184
+Global Step: 185
+Global Step: 186
+Global Step: 187
+Global Step: 188
+Global Step: 189
+Global Step: 190
+Epoch 1, Batch 191, Loss: 22.543, LR: 0.000100
+Global Step: 191
+Global Step: 192
+Global Step: 193
+Global Step: 194
+Global Step: 195
+Global Step: 196
+Global Step: 197
+Global Step: 198
+Global Step: 199
+Global Step: 200
+Epoch 1, Batch 201, Loss: 22.770, LR: 0.000100
+Epoch 1:  15%|█▍        | 228/1536 [02:48<04:07,  5.30it/s]  
+Step 200 Eval Loss: 101.250
+Global Step: 201
+Global Step: 202
+Global Step: 203
+Global Step: 204
+Global Step: 205
+Global Step: 206
+Global Step: 207
+Global Step: 208
+Global Step: 209
+Global Step: 210
+Epoch 1, Batch 211, Loss: 22.634, LR: 0.000100
+Global Step: 211
+Global Step: 212
+Global Step: 213
+Global Step: 214
+Global Step: 215
+Global Step: 216
+Global Step: 217
+Global Step: 218
+Global Step: 219
+Global Step: 220
+Epoch 1, Batch 221, Loss: 22.786, LR: 0.000100
+Global Step: 221
+Global Step: 222
+Global Step: 223
+Global Step: 224
+Global Step: 225
+Global Step: 226
+Global Step: 227
+Global Step: 228
+Global Step: 229
+Global Step: 230
+Epoch 1, Batch 231, Loss: 23.308, LR: 0.000100
+Global Step: 231
+Global Step: 232
+Global Step: 233
+Global Step: 234
+Global Step: 235
+Global Step: 236
+Global Step: 237
+Global Step: 238
+Global Step: 239
+Global Step: 240
+Epoch 1, Batch 241, Loss: 22.665, LR: 0.000100
+Global Step: 241
+Global Step: 242
+Global Step: 243
+Global Step: 244
+Global Step: 245
+Global Step: 246
+Global Step: 247
+Global Step: 248
+Global Step: 249
+Global Step: 250
+Epoch 1, Batch 251, Loss: 24.728, LR: 0.000100
+Epoch 1:  18%|█▊        | 278/1536 [03:19<03:57,  5.29it/s]  
+Step 250 Eval Loss: 102.944
+Global Step: 251
+Global Step: 252
+Global Step: 253
+Global Step: 254
+Global Step: 255
+Global Step: 256
+Global Step: 257
+Global Step: 258
+Global Step: 259
+Global Step: 260
+Epoch 1, Batch 261, Loss: 22.839, LR: 0.000100
+Global Step: 261
+Global Step: 262
+Global Step: 263
+Global Step: 264
+Global Step: 265
+Global Step: 266
+Global Step: 267
+Global Step: 268
+Global Step: 269
+Global Step: 270
+Epoch 1, Batch 271, Loss: 22.934, LR: 0.000100
+Global Step: 271
+Global Step: 272
+Global Step: 273
+Global Step: 274
+Global Step: 275
+Global Step: 276
+Global Step: 277
+Global Step: 278
+Global Step: 279
+Global Step: 280
+Epoch 1, Batch 281, Loss: 23.560, LR: 0.000100
+Global Step: 281
+Global Step: 282
+Global Step: 283
+Global Step: 284
+Global Step: 285
+Global Step: 286
+Global Step: 287
+Global Step: 288
+Global Step: 289
+Global Step: 290
+Epoch 1, Batch 291, Loss: 22.920, LR: 0.000100
+Global Step: 291
+Global Step: 292
+Global Step: 293
+Global Step: 294
+Global Step: 295
+Global Step: 296
+Global Step: 297
+Global Step: 298
+Global Step: 299
+Global Step: 300
+Epoch 1, Batch 301, Loss: 24.543, LR: 0.000100
+Epoch 1:  21%|██▏       | 328/1536 [03:49<03:48,  5.29it/s]  
+Step 300 Eval Loss: 103.354
+Global Step: 301
+Global Step: 302
+Global Step: 303
+Global Step: 304
+Global Step: 305
+Global Step: 306
+Global Step: 307
+Global Step: 308
+Global Step: 309
+Global Step: 310
+Epoch 1, Batch 311, Loss: 23.424, LR: 0.000100
+Global Step: 311
+Global Step: 312
+Global Step: 313
+Global Step: 314
+Global Step: 315
+Global Step: 316
+Global Step: 317
+Global Step: 318
+Global Step: 319
+Global Step: 320
+Epoch 1, Batch 321, Loss: 24.423, LR: 0.000100
+Global Step: 321
+Global Step: 322
+Global Step: 323
+Global Step: 324
+Global Step: 325
+Global Step: 326
+Global Step: 327
+Global Step: 328
+Global Step: 329
+Global Step: 330
+Epoch 1, Batch 331, Loss: 22.269, LR: 0.000100
+Global Step: 331
+Global Step: 332
+Global Step: 333
+Global Step: 334
+Global Step: 335
+Global Step: 336
+Global Step: 337
+Global Step: 338
+Global Step: 339
+Global Step: 340
+Epoch 1, Batch 341, Loss: 23.871, LR: 0.000100
+Global Step: 341
+Global Step: 342
+Global Step: 343
+Global Step: 344
+Global Step: 345
+Global Step: 346
+Global Step: 347
+Global Step: 348
+Global Step: 349
+Global Step: 350
+Epoch 1, Batch 351, Loss: 22.644, LR: 0.000100
+Epoch 1:  25%|██▍       | 378/1536 [04:20<03:26,  5.62it/s]  
+Step 350 Eval Loss: 103.645
+Global Step: 351
+Global Step: 352
+Global Step: 353
+Global Step: 354
+Global Step: 355
+Global Step: 356
+Global Step: 357
+Global Step: 358
+Global Step: 359
+Global Step: 360
+Epoch 1, Batch 361, Loss: 22.670, LR: 0.000100
+Global Step: 361
+Global Step: 362
+Global Step: 363
+Global Step: 364
+Global Step: 365
+Global Step: 366
+Global Step: 367
+Global Step: 368
+Global Step: 369
+Global Step: 370
+Epoch 1, Batch 371, Loss: 24.378, LR: 0.000100
+Global Step: 371
+Global Step: 372
+Global Step: 373
+Global Step: 374
+Global Step: 375
+Global Step: 376
+Global Step: 377
+Global Step: 378
+Global Step: 379
+Global Step: 380
+Epoch 1, Batch 381, Loss: 24.246, LR: 0.000100
+Global Step: 381
+Global Step: 382
+Global Step: 383
+Global Step: 384
+Global Step: 385
+Global Step: 386
+Global Step: 387
+Global Step: 388
+Global Step: 389
+Global Step: 390
+Epoch 1, Batch 391, Loss: 22.212, LR: 0.000100
+Global Step: 391
+Global Step: 392
+Global Step: 393
+Global Step: 394
+Global Step: 395
+Global Step: 396
+Global Step: 397
+Global Step: 398
+Global Step: 399
+Global Step: 400
+Epoch 1, Batch 401, Loss: 23.742, LR: 0.000100
+Epoch 1:  28%|██▊       | 428/1536 [04:50<03:29,  5.30it/s]  
+Step 400 Eval Loss: 103.722
+Global Step: 401
+Global Step: 402
+Global Step: 403
+Global Step: 404
+Global Step: 405
+Global Step: 406
+Global Step: 407
+Global Step: 408
+Global Step: 409
+Global Step: 410
+Epoch 1, Batch 411, Loss: 23.710, LR: 0.000100
+Global Step: 411
+Global Step: 412
+Global Step: 413
+Global Step: 414
+Global Step: 415
+Global Step: 416
+Global Step: 417
+Global Step: 418
+Global Step: 419
+Global Step: 420
+Epoch 1, Batch 421, Loss: 24.754, LR: 0.000100
+Global Step: 421
+Global Step: 422
+Global Step: 423
+Global Step: 424
+Global Step: 425
+Global Step: 426
+Global Step: 427
+Global Step: 428
+Global Step: 429
+Global Step: 430
+Epoch 1, Batch 431, Loss: 24.056, LR: 0.000100
+Global Step: 431
+Global Step: 432
+Global Step: 433
+Global Step: 434
+Global Step: 435
+Global Step: 436
+Global Step: 437
+Global Step: 438
+Global Step: 439
+Global Step: 440
+Epoch 1, Batch 441, Loss: 24.785, LR: 0.000100
+Global Step: 441
+Global Step: 442
+Global Step: 443
+Global Step: 444
+Global Step: 445
+Global Step: 446
+Global Step: 447
+Global Step: 448
+Global Step: 449
+Global Step: 450
+Epoch 1, Batch 451, Loss: 21.472, LR: 0.000100
+Epoch 1:  31%|███       | 478/1536 [05:20<03:16,  5.39it/s]  
+Step 450 Eval Loss: 103.772
+Global Step: 451
+Global Step: 452
+Global Step: 453
+Global Step: 454
+Global Step: 455
+Global Step: 456
+Global Step: 457
+Global Step: 458
+Global Step: 459
+Global Step: 460
+Epoch 1, Batch 461, Loss: 21.712, LR: 0.000100
+Global Step: 461
+Global Step: 462
+Global Step: 463
+Global Step: 464
+Global Step: 465
+Global Step: 466
+Global Step: 467
+Global Step: 468
+Global Step: 469
+Global Step: 470
+Epoch 1, Batch 471, Loss: 24.239, LR: 0.000100
+Global Step: 471
+Global Step: 472
+Global Step: 473
+Global Step: 474
+Global Step: 475
+Global Step: 476
+Global Step: 477
+Global Step: 478
+Global Step: 479
+Global Step: 480
+Epoch 1, Batch 481, Loss: 24.432, LR: 0.000100
+Global Step: 481
+Global Step: 482
+Global Step: 483
+Global Step: 484
+Global Step: 485
+Global Step: 486
+Global Step: 487
+Global Step: 488
+Global Step: 489
+Global Step: 490
+Epoch 1, Batch 491, Loss: 24.108, LR: 0.000100
+Global Step: 491
+Global Step: 492
+Global Step: 493
+Global Step: 494
+Global Step: 495
+Global Step: 496
+Global Step: 497
+Global Step: 498
+Global Step: 499
+Global Step: 500
+Epoch 1, Batch 501, Loss: 22.900, LR: 0.000100
+Epoch 1:  34%|███▍      | 528/1536 [05:51<03:09,  5.33it/s]  
+Step 500 Eval Loss: 103.844
+Global Step: 501
+Global Step: 502
+Global Step: 503
+Global Step: 504
+Global Step: 505
+Global Step: 506
+Global Step: 507
+Global Step: 508
+Global Step: 509
+Global Step: 510
+Epoch 1, Batch 511, Loss: 24.408, LR: 0.000100
+Global Step: 511
+Global Step: 512
+Global Step: 513
+Global Step: 514
+Global Step: 515
+Global Step: 516
+Global Step: 517
+Global Step: 518
+Global Step: 519
+Global Step: 520
+Epoch 1, Batch 521, Loss: 24.063, LR: 0.000100
+Global Step: 521
+Global Step: 522
+Global Step: 523
+Global Step: 524
+Global Step: 525
+Global Step: 526
+Global Step: 527
+Global Step: 528
+Global Step: 529
+Global Step: 530
+Epoch 1, Batch 531, Loss: 24.289, LR: 0.000100
+Global Step: 531
+Global Step: 532
+Global Step: 533
+Global Step: 534
+Global Step: 535
+Global Step: 536
+Global Step: 537
+Global Step: 538
+Global Step: 539
+Global Step: 540
+Epoch 1, Batch 541, Loss: 23.937, LR: 0.000100
+Global Step: 541
+Global Step: 542
+Global Step: 543
+Global Step: 544
+Global Step: 545
+Global Step: 546
+Global Step: 547
+Global Step: 548
+Global Step: 549
+Global Step: 550
+Epoch 1, Batch 551, Loss: 22.034, LR: 0.000100
+Epoch 1:  38%|███▊      | 578/1536 [06:21<02:52,  5.54it/s]  
+Step 550 Eval Loss: 103.674
+Global Step: 551
+Global Step: 552
+Global Step: 553
+Global Step: 554
+Global Step: 555
+Global Step: 556
+Global Step: 557
+Global Step: 558
+Global Step: 559
+Global Step: 560
+Epoch 1, Batch 561, Loss: 24.928, LR: 0.000100
+Global Step: 561
+Global Step: 562
+Global Step: 563
+Global Step: 564
+Global Step: 565
+Global Step: 566
+Global Step: 567
+Global Step: 568
+Global Step: 569
+Global Step: 570
+Epoch 1, Batch 571, Loss: 22.313, LR: 0.000100
+Global Step: 571
+Global Step: 572
+Global Step: 573
+Global Step: 574
+Global Step: 575
+Global Step: 576
+Global Step: 577
+Global Step: 578
+Global Step: 579
+Global Step: 580
+Epoch 1, Batch 581, Loss: 22.928, LR: 0.000100
+Global Step: 581
+Global Step: 582
+Global Step: 583
+Global Step: 584
+Global Step: 585
+Global Step: 586
+Global Step: 587
+Global Step: 588
+Global Step: 589
+Global Step: 590
+Epoch 1, Batch 591, Loss: 23.836, LR: 0.000100
+Global Step: 591
+Global Step: 592
+Global Step: 593
+Global Step: 594
+Global Step: 595
+Global Step: 596
+Global Step: 597
+Global Step: 598
+Global Step: 599
+Global Step: 600
+Epoch 1, Batch 601, Loss: 24.467, LR: 0.000100
+Epoch 1:  41%|████      | 628/1536 [06:52<02:45,  5.48it/s]  
+Step 600 Eval Loss: 103.625
+Global Step: 601
+Global Step: 602
+Global Step: 603
+Global Step: 604
+Global Step: 605
+Global Step: 606
+Global Step: 607
+Global Step: 608
+Global Step: 609
+Global Step: 610
+Epoch 1, Batch 611, Loss: 24.119, LR: 0.000100
+Global Step: 611
+Global Step: 612
+Global Step: 613
+Global Step: 614
+Global Step: 615
+Global Step: 616
+Global Step: 617
+Global Step: 618
+Global Step: 619
+Global Step: 620
+Epoch 1, Batch 621, Loss: 24.827, LR: 0.000100
+Global Step: 621
+Global Step: 622
+Global Step: 623
+Global Step: 624
+Global Step: 625
+Global Step: 626
+Global Step: 627
+Global Step: 628
+Global Step: 629
+Global Step: 630
+Epoch 1, Batch 631, Loss: 23.587, LR: 0.000100
+Global Step: 631
+Global Step: 632
+Global Step: 633
+Global Step: 634
+Global Step: 635
+Global Step: 636
+Global Step: 637
+Global Step: 638
+Global Step: 639
+Global Step: 640
+Epoch 1, Batch 641, Loss: 24.041, LR: 0.000100
+Global Step: 641
+Global Step: 642
+Global Step: 643
+Global Step: 644
+Global Step: 645
+Global Step: 646
+Global Step: 647
+Global Step: 648
+Global Step: 649
+Global Step: 650
+Epoch 1, Batch 651, Loss: 23.691, LR: 0.000100
+Epoch 1:  44%|████▍     | 677/1536 [07:23<02:31,  5.67it/s]  
+Step 650 Eval Loss: 103.675
+Global Step: 651
+Global Step: 652
+Global Step: 653
+Global Step: 654
+Global Step: 655
+Global Step: 656
+Global Step: 657
+Global Step: 658
+Global Step: 659
+Global Step: 660
+Epoch 1, Batch 661, Loss: 23.339, LR: 0.000100
+Global Step: 661
+Global Step: 662
+Global Step: 663
+Global Step: 664
+Global Step: 665
+Global Step: 666
+Global Step: 667
+Global Step: 668
+Global Step: 669
+Global Step: 670
+Epoch 1, Batch 671, Loss: 20.211, LR: 0.000100
+Global Step: 671
+Global Step: 672
+Global Step: 673
+Global Step: 674
+Global Step: 675
+Global Step: 676
+Global Step: 677
+Global Step: 678
+Global Step: 679
+Global Step: 680
+Epoch 1, Batch 681, Loss: 24.006, LR: 0.000100
+Global Step: 681
+Global Step: 682
+Global Step: 683
+Global Step: 684
+Global Step: 685
+Global Step: 686
+Global Step: 687
+Global Step: 688
+Global Step: 689
+Global Step: 690
+Epoch 1, Batch 691, Loss: 23.501, LR: 0.000100
+Global Step: 691
+Global Step: 692
+Global Step: 693
+Global Step: 694
+Global Step: 695
+Global Step: 696
+Global Step: 697
+Global Step: 698
+Global Step: 699
+Global Step: 700
+Epoch 1, Batch 701, Loss: 24.282, LR: 0.000100
+Epoch 1:  47%|████▋     | 728/1536 [07:53<02:29,  5.40it/s]
+Step 700 Eval Loss: 103.854
+Global Step: 701
+Global Step: 702
+Global Step: 703
+Global Step: 704
+Global Step: 705
+Global Step: 706
+Global Step: 707
+Global Step: 708
+Global Step: 709
+Global Step: 710
+Epoch 1, Batch 711, Loss: 24.086, LR: 0.000100
+Global Step: 711
+Global Step: 712
+Global Step: 713
+Global Step: 714
+Global Step: 715
+Global Step: 716
+Global Step: 717
+Global Step: 718
+Global Step: 719
+Global Step: 720
+Epoch 1, Batch 721, Loss: 23.655, LR: 0.000100
+Global Step: 721
+Global Step: 722
+Global Step: 723
+Global Step: 724
+Global Step: 725
+Global Step: 726
+Global Step: 727
+Global Step: 728
+Global Step: 729
+Global Step: 730
+Epoch 1, Batch 731, Loss: 23.500, LR: 0.000100
+Global Step: 731
+Global Step: 732
+Global Step: 733
+Global Step: 734
+Global Step: 735
+Global Step: 736
+Global Step: 737
+Global Step: 738
+Global Step: 739
+Global Step: 740
+Epoch 1, Batch 741, Loss: 24.111, LR: 0.000100
+Global Step: 741
+Global Step: 742
+Global Step: 743
+Global Step: 744
+Global Step: 745
+Global Step: 746
+Global Step: 747
+Global Step: 748
+Global Step: 749
+Global Step: 750
+Epoch 1, Batch 751, Loss: 23.401, LR: 0.000100
+Epoch 1:  51%|█████     | 778/1536 [08:23<02:19,  5.44it/s]
+Step 750 Eval Loss: 103.724
+Global Step: 751
+Global Step: 752
+Global Step: 753
+Global Step: 754
+Global Step: 755
+Global Step: 756
+Global Step: 757
+Global Step: 758
+Global Step: 759
+Global Step: 760
+Epoch 1, Batch 761, Loss: 23.737, LR: 0.000100
+Global Step: 761
+Global Step: 762
+Global Step: 763
+Global Step: 764
+Global Step: 765
+Global Step: 766
+Global Step: 767
+Global Step: 768
+Global Step: 769
+Global Step: 770
+Epoch 1, Batch 771, Loss: 23.744, LR: 0.000100
+Global Step: 771
+Global Step: 772
+Global Step: 773
+Global Step: 774
+Global Step: 775
+Global Step: 776
+Global Step: 777
+Global Step: 778
+Global Step: 779
+Global Step: 780
+Epoch 1, Batch 781, Loss: 24.550, LR: 0.000100
+Global Step: 781
+Global Step: 782
+Global Step: 783
+Global Step: 784
+Global Step: 785
+Global Step: 786
+Global Step: 787
+Global Step: 788
+Global Step: 789
+Global Step: 790
+Epoch 1, Batch 791, Loss: 23.829, LR: 0.000100
+Global Step: 791
+Global Step: 792
+Global Step: 793
+Global Step: 794
+Global Step: 795
+Global Step: 796
+Global Step: 797
+Global Step: 798
+Global Step: 799
+Global Step: 800
+Epoch 1, Batch 801, Loss: 24.681, LR: 0.000100
+Epoch 1:  54%|█████▍    | 828/1536 [08:54<02:15,  5.24it/s]
+Step 800 Eval Loss: 103.805
+Global Step: 801
+Global Step: 802
+Global Step: 803
+Global Step: 804
+Global Step: 805
+Global Step: 806
+Global Step: 807
+Global Step: 808
+Global Step: 809
+Global Step: 810
+Epoch 1, Batch 811, Loss: 23.604, LR: 0.000100
+Global Step: 811
+Global Step: 812
+Global Step: 813
+Global Step: 814
+Global Step: 815
+Global Step: 816
+Global Step: 817
+Global Step: 818
+Global Step: 819
+Global Step: 820
+Epoch 1, Batch 821, Loss: 23.243, LR: 0.000100
+Global Step: 821
+Global Step: 822
+Global Step: 823
+Global Step: 824
+Global Step: 825
+Global Step: 826
+Global Step: 827
+Global Step: 828
+Global Step: 829
+Global Step: 830
+Epoch 1, Batch 831, Loss: 23.533, LR: 0.000100
+Global Step: 831
+Global Step: 832
+Global Step: 833
+Global Step: 834
+Global Step: 835
+Global Step: 836
+Global Step: 837
+Global Step: 838
+Global Step: 839
+Global Step: 840
+Epoch 1, Batch 841, Loss: 24.678, LR: 0.000100
+Global Step: 841
+Global Step: 842
+Global Step: 843
+Global Step: 844
+Global Step: 845
+Global Step: 846
+Global Step: 847
+Global Step: 848
+Global Step: 849
+Global Step: 850
+Epoch 1, Batch 851, Loss: 24.283, LR: 0.000100
+Epoch 1:  57%|█████▋    | 878/1536 [09:24<01:59,  5.52it/s]
+Step 850 Eval Loss: 103.755
+Global Step: 851
+Global Step: 852
+Global Step: 853
+Global Step: 854
+Global Step: 855
+Global Step: 856
+Global Step: 857
+Global Step: 858
+Global Step: 859
+Global Step: 860
+Epoch 1, Batch 861, Loss: 23.365, LR: 0.000100
+Global Step: 861
+Global Step: 862
+Global Step: 863
+Global Step: 864
+Global Step: 865
+Global Step: 866
+Global Step: 867
+Global Step: 868
+Global Step: 869
+Global Step: 870
+Epoch 1, Batch 871, Loss: 23.936, LR: 0.000100
+Global Step: 871
+Global Step: 872
+Global Step: 873
+Global Step: 874
+Global Step: 875
+Global Step: 876
+Global Step: 877
+Global Step: 878
+Global Step: 879
+Global Step: 880
+Epoch 1, Batch 881, Loss: 23.702, LR: 0.000100
+Global Step: 881
+Global Step: 882
+Global Step: 883
+Global Step: 884
+Global Step: 885
+Global Step: 886
+Global Step: 887
+Global Step: 888
+Global Step: 889
+Global Step: 890
+Epoch 1, Batch 891, Loss: 22.301, LR: 0.000100
+Global Step: 891
+Global Step: 892
+Global Step: 893
+Global Step: 894
+Global Step: 895
+Global Step: 896
+Global Step: 897
+Global Step: 898
+Global Step: 899
+Global Step: 900
+Epoch 1, Batch 901, Loss: 23.248, LR: 0.000100
+Epoch 1:  60%|██████    | 928/1536 [09:54<01:47,  5.64it/s]  
+Step 900 Eval Loss: 103.625
+Global Step: 901
+Global Step: 902
+Global Step: 903
+Global Step: 904
+Global Step: 905
+Global Step: 906
+Global Step: 907
+Global Step: 908
+Global Step: 909
+Global Step: 910
+Epoch 1, Batch 911, Loss: 23.961, LR: 0.000100
+Global Step: 911
+Global Step: 912
+Global Step: 913
+Global Step: 914
+Global Step: 915
+Global Step: 916
+Global Step: 917
+Global Step: 918
+Global Step: 919
+Global Step: 920
+Epoch 1, Batch 921, Loss: 23.052, LR: 0.000100
+Global Step: 921
+Global Step: 922
+Global Step: 923
+Global Step: 924
+Global Step: 925
+Global Step: 926
+Global Step: 927
+Global Step: 928
+Global Step: 929
+Global Step: 930
+Epoch 1, Batch 931, Loss: 22.062, LR: 0.000100
+Global Step: 931
+Global Step: 932
+Global Step: 933
+Global Step: 934
+Global Step: 935
+Global Step: 936
+Global Step: 937
+Global Step: 938
+Global Step: 939
+Global Step: 940
+Epoch 1, Batch 941, Loss: 23.006, LR: 0.000100
+Global Step: 941
+Global Step: 942
+Global Step: 943
+Global Step: 944
+Global Step: 945
+Global Step: 946
+Global Step: 947
+Global Step: 948
+Global Step: 949
+Global Step: 950
+Epoch 1, Batch 951, Loss: 23.646, LR: 0.000100
+Epoch 1:  64%|██████▎   | 978/1536 [10:24<01:51,  5.00it/s]  
+Step 950 Eval Loss: 103.787
+Global Step: 951
+Global Step: 952
+Global Step: 953
+Global Step: 954
+Global Step: 955
+Global Step: 956
+Global Step: 957
+Global Step: 958
+Global Step: 959
+Global Step: 960
+Epoch 1, Batch 961, Loss: 24.005, LR: 0.000100
+Global Step: 961
+Global Step: 962
+Global Step: 963
+Global Step: 964
+Global Step: 965
+Global Step: 966
+Global Step: 967
+Global Step: 968
+Global Step: 969
+Global Step: 970
+Epoch 1, Batch 971, Loss: 23.522, LR: 0.000100
+Global Step: 971
+Global Step: 972
+Global Step: 973
+Global Step: 974
+Global Step: 975
+Global Step: 976
+Global Step: 977
+Global Step: 978
+Global Step: 979
+Global Step: 980
+Epoch 1, Batch 981, Loss: 23.639, LR: 0.000100
+Global Step: 981
+Global Step: 982
+Global Step: 983
+Global Step: 984
+Global Step: 985
+Global Step: 986
+Global Step: 987
+Global Step: 988
+Global Step: 989
+Global Step: 990
+Epoch 1, Batch 991, Loss: 21.386, LR: 0.000100
+Global Step: 991
+Global Step: 992
+Global Step: 993
+Global Step: 994
+Global Step: 995
+Global Step: 996
+Global Step: 997
+Global Step: 998
+Global Step: 999
+Global Step: 1000
+Epoch 1, Batch 1001, Loss: 24.016, LR: 0.000100
+Epoch 1:  67%|██████▋   | 1028/1536 [10:55<01:33,  5.43it/s]  
+Step 1000 Eval Loss: 103.722
+Global Step: 1001
+Global Step: 1002
+Global Step: 1003
+Global Step: 1004
+Global Step: 1005
+Global Step: 1006
+Global Step: 1007
+Global Step: 1008
+Global Step: 1009
+Global Step: 1010
+Epoch 1, Batch 1011, Loss: 24.829, LR: 0.000100
+Global Step: 1011
+Global Step: 1012
+Global Step: 1013
+Global Step: 1014
+Global Step: 1015
+Global Step: 1016
+Global Step: 1017
+Global Step: 1018
+Global Step: 1019
+Global Step: 1020
+Epoch 1, Batch 1021, Loss: 22.478, LR: 0.000100
+Global Step: 1021
+Global Step: 1022
+Global Step: 1023
+Global Step: 1024
+Global Step: 1025
+Global Step: 1026
+Global Step: 1027
+Global Step: 1028
+Global Step: 1029
+Global Step: 1030
+Epoch 1, Batch 1031, Loss: 22.948, LR: 0.000100
+Global Step: 1031
+Global Step: 1032
+Global Step: 1033
+Global Step: 1034
+Global Step: 1035
+Global Step: 1036
+Global Step: 1037
+Global Step: 1038
+Global Step: 1039
+Global Step: 1040
+Epoch 1, Batch 1041, Loss: 23.928, LR: 0.000100
+Global Step: 1041
+Global Step: 1042
+Global Step: 1043
+Global Step: 1044
+Global Step: 1045
+Global Step: 1046
+Global Step: 1047
+Global Step: 1048
+Global Step: 1049
+Global Step: 1050
+Epoch 1, Batch 1051, Loss: 23.049, LR: 0.000100
+Epoch 1:  70%|███████   | 1078/1536 [11:25<01:29,  5.10it/s]
+Step 1050 Eval Loss: 103.790
+Global Step: 1051
+Global Step: 1052
+Global Step: 1053
+Global Step: 1054
+Global Step: 1055
+Global Step: 1056
+Global Step: 1057
+Global Step: 1058
+Global Step: 1059
+Global Step: 1060
+Epoch 1, Batch 1061, Loss: 23.280, LR: 0.000100
+Global Step: 1061
+Global Step: 1062
+Global Step: 1063
+Global Step: 1064
+Global Step: 1065
+Global Step: 1066
+Global Step: 1067
+Global Step: 1068
+Global Step: 1069
+Global Step: 1070
+Epoch 1, Batch 1071, Loss: 23.638, LR: 0.000100
+Global Step: 1071
+Global Step: 1072
+Global Step: 1073
+Global Step: 1074
+Global Step: 1075
+Global Step: 1076
+Global Step: 1077
+Global Step: 1078
+Global Step: 1079
+Global Step: 1080
+Epoch 1, Batch 1081, Loss: 23.832, LR: 0.000100
+Global Step: 1081
+Global Step: 1082
+Global Step: 1083
+Global Step: 1084
+Global Step: 1085
+Global Step: 1086
+Global Step: 1087
+Global Step: 1088
+Global Step: 1089
+Global Step: 1090
+Epoch 1, Batch 1091, Loss: 23.699, LR: 0.000100
+Global Step: 1091
+Global Step: 1092
+Global Step: 1093
+Global Step: 1094
+Global Step: 1095
+Global Step: 1096
+Global Step: 1097
+Global Step: 1098
+Global Step: 1099
+Global Step: 1100
+Epoch 1, Batch 1101, Loss: 22.191, LR: 0.000100
+Epoch 1:  73%|███████▎  | 1128/1536 [11:55<01:16,  5.33it/s]
+Step 1100 Eval Loss: 103.798
+Global Step: 1101
+Global Step: 1102
+Global Step: 1103
+Global Step: 1104
+Global Step: 1105
+Global Step: 1106
+Global Step: 1107
+Global Step: 1108
+Global Step: 1109
+Global Step: 1110
+Epoch 1, Batch 1111, Loss: 23.854, LR: 0.000100
+Global Step: 1111
+Global Step: 1112
+Global Step: 1113
+Global Step: 1114
+Global Step: 1115
+Global Step: 1116
+Global Step: 1117
+Global Step: 1118
+Global Step: 1119
+Global Step: 1120
+Epoch 1, Batch 1121, Loss: 23.862, LR: 0.000100
+Global Step: 1121
+Global Step: 1122
+Global Step: 1123
+Global Step: 1124
+Global Step: 1125
+Global Step: 1126
+Global Step: 1127
+Global Step: 1128
+Global Step: 1129
+Global Step: 1130
+Epoch 1, Batch 1131, Loss: 24.218, LR: 0.000100
+Global Step: 1131
+Global Step: 1132
+Global Step: 1133
+Global Step: 1134
+Global Step: 1135
+Global Step: 1136
+Global Step: 1137
+Global Step: 1138
+Global Step: 1139
+Global Step: 1140
+Epoch 1, Batch 1141, Loss: 23.955, LR: 0.000100
+Global Step: 1141
+Global Step: 1142
+Global Step: 1143
+Global Step: 1144
+Global Step: 1145
+Global Step: 1146
+Global Step: 1147
+Global Step: 1148
+Global Step: 1149
+Global Step: 1150
+Epoch 1, Batch 1151, Loss: 23.978, LR: 0.000100
+Epoch 1:  77%|███████▋  | 1178/1536 [12:25<01:05,  5.51it/s]
+Step 1150 Eval Loss: 103.823
+Global Step: 1151
+Global Step: 1152
+Global Step: 1153
+Global Step: 1154
+Global Step: 1155
+Global Step: 1156
+Global Step: 1157
+Global Step: 1158
+Global Step: 1159
+Global Step: 1160
+Epoch 1, Batch 1161, Loss: 24.265, LR: 0.000100
+Global Step: 1161
+Global Step: 1162
+Global Step: 1163
+Global Step: 1164
+Global Step: 1165
+Global Step: 1166
+Global Step: 1167
+Global Step: 1168
+Global Step: 1169
+Global Step: 1170
+Epoch 1, Batch 1171, Loss: 24.107, LR: 0.000100
+Global Step: 1171
+Global Step: 1172
+Global Step: 1173
+Global Step: 1174
+Global Step: 1175
+Global Step: 1176
+Global Step: 1177
+Global Step: 1178
+Global Step: 1179
+Global Step: 1180
+Epoch 1, Batch 1181, Loss: 23.596, LR: 0.000100
+Global Step: 1181
+Global Step: 1182
+Global Step: 1183
+Global Step: 1184
+Global Step: 1185
+Global Step: 1186
+Global Step: 1187
+Global Step: 1188
+Global Step: 1189
+Global Step: 1190
+Epoch 1, Batch 1191, Loss: 24.009, LR: 0.000100
+Global Step: 1191
+Global Step: 1192
+Global Step: 1193
+Global Step: 1194
+Global Step: 1195
+Global Step: 1196
+Global Step: 1197
+Global Step: 1198
+Global Step: 1199
+Global Step: 1200
+Epoch 1, Batch 1201, Loss: 22.985, LR: 0.000100
+Epoch 1:  80%|███████▉  | 1228/1536 [12:55<00:52,  5.83it/s]
+Step 1200 Eval Loss: 103.701
+Global Step: 1201
+Global Step: 1202
+Global Step: 1203
+Global Step: 1204
+Global Step: 1205
+Global Step: 1206
+Global Step: 1207
+Global Step: 1208
+Global Step: 1209
+Global Step: 1210
+Epoch 1, Batch 1211, Loss: 23.364, LR: 0.000100
+Global Step: 1211
+Global Step: 1212
+Global Step: 1213
+Global Step: 1214
+Global Step: 1215
+Global Step: 1216
+Global Step: 1217
+Global Step: 1218
+Global Step: 1219
+Global Step: 1220
+Epoch 1, Batch 1221, Loss: 23.184, LR: 0.000100
+Global Step: 1221
+Global Step: 1222
+Global Step: 1223
+Global Step: 1224
+Global Step: 1225
+Global Step: 1226
+Global Step: 1227
+Global Step: 1228
+Global Step: 1229
+Global Step: 1230
+Epoch 1, Batch 1231, Loss: 22.312, LR: 0.000100
+Global Step: 1231
+Global Step: 1232
+Global Step: 1233
+Global Step: 1234
+Global Step: 1235
+Global Step: 1236
+Global Step: 1237
+Global Step: 1238
+Global Step: 1239
+Global Step: 1240
+Epoch 1, Batch 1241, Loss: 23.753, LR: 0.000100
+Global Step: 1241
+Global Step: 1242
+Global Step: 1243
+Global Step: 1244
+Global Step: 1245
+Global Step: 1246
+Global Step: 1247
+Global Step: 1248
+Global Step: 1249
+Global Step: 1250
+Epoch 1, Batch 1251, Loss: 23.322, LR: 0.000100
+Epoch 1:  83%|████████▎ | 1278/1536 [13:26<00:45,  5.67it/s]
+Step 1250 Eval Loss: 103.757
+Global Step: 1251
+Global Step: 1252
+Global Step: 1253
+Global Step: 1254
+Global Step: 1255
+Global Step: 1256
+Global Step: 1257
+Global Step: 1258
+Global Step: 1259
+Global Step: 1260
+Epoch 1, Batch 1261, Loss: 23.499, LR: 0.000100
+Global Step: 1261
+Global Step: 1262
+Global Step: 1263
+Global Step: 1264
+Global Step: 1265
+Global Step: 1266
+Global Step: 1267
+Global Step: 1268
+Global Step: 1269
+Global Step: 1270
+Epoch 1, Batch 1271, Loss: 24.465, LR: 0.000100
+Global Step: 1271
+Global Step: 1272
+Global Step: 1273
+Global Step: 1274
+Global Step: 1275
+Global Step: 1276
+Global Step: 1277
+Global Step: 1278
+Global Step: 1279
+Global Step: 1280
+Epoch 1, Batch 1281, Loss: 21.776, LR: 0.000100
+Global Step: 1281
+Global Step: 1282
+Global Step: 1283
+Global Step: 1284
+Global Step: 1285
+Global Step: 1286
+Global Step: 1287
+Global Step: 1288
+Global Step: 1289
+Global Step: 1290
+Epoch 1, Batch 1291, Loss: 24.234, LR: 0.000100
+Global Step: 1291
+Global Step: 1292
+Global Step: 1293
+Global Step: 1294
+Global Step: 1295
+Global Step: 1296
+Global Step: 1297
+Global Step: 1298
+Global Step: 1299
+Global Step: 1300
+Epoch 1, Batch 1301, Loss: 24.297, LR: 0.000100
+Epoch 1:  86%|████████▋ | 1328/1536 [13:56<00:37,  5.58it/s]
+Step 1300 Eval Loss: 103.752
+Global Step: 1301
+Global Step: 1302
+Global Step: 1303
+Global Step: 1304
+Global Step: 1305
+Global Step: 1306
+Global Step: 1307
+Global Step: 1308
+Global Step: 1309
+Global Step: 1310
+Epoch 1, Batch 1311, Loss: 24.853, LR: 0.000100
+Global Step: 1311
+Global Step: 1312
+Global Step: 1313
+Global Step: 1314
+Global Step: 1315
+Global Step: 1316
+Global Step: 1317
+Global Step: 1318
+Global Step: 1319
+Global Step: 1320
+Epoch 1, Batch 1321, Loss: 24.112, LR: 0.000100
+Global Step: 1321
+Global Step: 1322
+Global Step: 1323
+Global Step: 1324
+Global Step: 1325
+Global Step: 1326
+Global Step: 1327
+Global Step: 1328
+Global Step: 1329
+Global Step: 1330
+Epoch 1, Batch 1331, Loss: 24.670, LR: 0.000100
+Global Step: 1331
+Global Step: 1332
+Global Step: 1333
+Global Step: 1334
+Global Step: 1335
+Global Step: 1336
+Global Step: 1337
+Global Step: 1338
+Global Step: 1339
+Global Step: 1340
+Epoch 1, Batch 1341, Loss: 23.666, LR: 0.000100
+Global Step: 1341
+Global Step: 1342
+Global Step: 1343
+Global Step: 1344
+Global Step: 1345
+Global Step: 1346
+Global Step: 1347
+Global Step: 1348
+Global Step: 1349
+Global Step: 1350
+Epoch 1, Batch 1351, Loss: 24.145, LR: 0.000100
+Epoch 1:  90%|████████▉ | 1378/1536 [14:26<00:27,  5.66it/s]
+Step 1350 Eval Loss: 103.798
+Global Step: 1351
+Global Step: 1352
+Global Step: 1353
+Global Step: 1354
+Global Step: 1355
+Global Step: 1356
+Global Step: 1357
+Global Step: 1358
+Global Step: 1359
+Global Step: 1360
+Epoch 1, Batch 1361, Loss: 23.742, LR: 0.000100
+Global Step: 1361
+Global Step: 1362
+Global Step: 1363
+Global Step: 1364
+Global Step: 1365
+Global Step: 1366
+Global Step: 1367
+Global Step: 1368
+Global Step: 1369
+Global Step: 1370
+Epoch 1, Batch 1371, Loss: 22.871, LR: 0.000100
+Global Step: 1371
+Global Step: 1372
+Global Step: 1373
+Global Step: 1374
+Global Step: 1375
+Global Step: 1376
+Global Step: 1377
+Global Step: 1378
+Global Step: 1379
+Global Step: 1380
+Epoch 1, Batch 1381, Loss: 23.349, LR: 0.000100
+Global Step: 1381
+Global Step: 1382
+Global Step: 1383
+Global Step: 1384
+Global Step: 1385
+Global Step: 1386
+Global Step: 1387
+Global Step: 1388
+Global Step: 1389
+Global Step: 1390
+Epoch 1, Batch 1391, Loss: 24.909, LR: 0.000100
+Global Step: 1391
+Global Step: 1392
+Global Step: 1393
+Global Step: 1394
+Global Step: 1395
+Global Step: 1396
+Global Step: 1397
+Global Step: 1398
+Global Step: 1399
+Global Step: 1400
+Epoch 1, Batch 1401, Loss: 23.655, LR: 0.000100
+Epoch 1:  93%|█████████▎| 1428/1536 [14:56<00:19,  5.66it/s]
+Step 1400 Eval Loss: 103.689
+Global Step: 1401
+Global Step: 1402
+Global Step: 1403
+Global Step: 1404
+Global Step: 1405
+Global Step: 1406
+Global Step: 1407
+Global Step: 1408
+Global Step: 1409
+Global Step: 1410
+Epoch 1, Batch 1411, Loss: 23.908, LR: 0.000100
+Global Step: 1411
+Global Step: 1412
+Global Step: 1413
+Global Step: 1414
+Global Step: 1415
+Global Step: 1416
+Global Step: 1417
+Global Step: 1418
+Global Step: 1419
+Global Step: 1420
+Epoch 1, Batch 1421, Loss: 24.323, LR: 0.000100
+Global Step: 1421
+Global Step: 1422
+Global Step: 1423
+Global Step: 1424
+Global Step: 1425
+Global Step: 1426
+Global Step: 1427
+Global Step: 1428
+Global Step: 1429
+Global Step: 1430
+Epoch 1, Batch 1431, Loss: 24.603, LR: 0.000100
+Global Step: 1431
+Global Step: 1432
+Global Step: 1433
+Global Step: 1434
+Global Step: 1435
+Global Step: 1436
+Global Step: 1437
+Global Step: 1438
+Global Step: 1439
+Global Step: 1440
+Epoch 1, Batch 1441, Loss: 23.026, LR: 0.000100
+Global Step: 1441
+Global Step: 1442
+Global Step: 1443
+Global Step: 1444
+Global Step: 1445
+Global Step: 1446
+Global Step: 1447
+Global Step: 1448
+Global Step: 1449
+Global Step: 1450
+Epoch 1, Batch 1451, Loss: 23.254, LR: 0.000100
+Epoch 1:  96%|█████████▌| 1478/1536 [15:26<00:09,  5.82it/s]
+Step 1450 Eval Loss: 103.698
+Global Step: 1451
+Global Step: 1452
+Global Step: 1453
+Global Step: 1454
+Global Step: 1455
+Global Step: 1456
+Global Step: 1457
+Global Step: 1458
+Global Step: 1459
+Global Step: 1460
+Epoch 1, Batch 1461, Loss: 23.516, LR: 0.000100
+Global Step: 1461
+Global Step: 1462
+Global Step: 1463
+Global Step: 1464
+Global Step: 1465
+Global Step: 1466
+Global Step: 1467
+Global Step: 1468
+Global Step: 1469
+Global Step: 1470
+Epoch 1, Batch 1471, Loss: 23.194, LR: 0.000100
+Global Step: 1471
+Global Step: 1472
+Global Step: 1473
+Global Step: 1474
+Global Step: 1475
+Global Step: 1476
+Global Step: 1477
+Global Step: 1478
+Global Step: 1479
+Global Step: 1480
+Epoch 1, Batch 1481, Loss: 22.804, LR: 0.000100
+Global Step: 1481
+Global Step: 1482
+Global Step: 1483
+Global Step: 1484
+Global Step: 1485
+Global Step: 1486
+Global Step: 1487
+Global Step: 1488
+Global Step: 1489
+Global Step: 1490
+Epoch 1, Batch 1491, Loss: 22.238, LR: 0.000100
+Global Step: 1491
+Global Step: 1492
+Global Step: 1493
+Global Step: 1494
+Global Step: 1495
+Global Step: 1496
+Global Step: 1497
+Global Step: 1498
+Global Step: 1499
+Global Step: 1500
+Epoch 1, Batch 1501, Loss: 24.007, LR: 0.000100
+Epoch 1:  99%|█████████▉| 1528/1536 [15:57<00:01,  5.16it/s]
+Step 1500 Eval Loss: 103.622
+Global Step: 1501
+Global Step: 1502
+Global Step: 1503
+Global Step: 1504
+Global Step: 1505
+Global Step: 1506
+Global Step: 1507
+Global Step: 1508
+Global Step: 1509
+Global Step: 1510
+Epoch 1, Batch 1511, Loss: 24.097, LR: 0.000100
+Global Step: 1511
+Global Step: 1512
+Global Step: 1513
+Global Step: 1514
+Global Step: 1515
+Global Step: 1516
+Global Step: 1517
+Global Step: 1518
+Global Step: 1519
+Global Step: 1520
+Epoch 1, Batch 1521, Loss: 23.613, LR: 0.000100
+Global Step: 1521
+Global Step: 1522
+Global Step: 1523
+Global Step: 1524
+Global Step: 1525
+Global Step: 1526
+Global Step: 1527
+Global Step: 1528
+Global Step: 1529
+Global Step: 1530
+Epoch 1, Batch 1531, Loss: 24.624, LR: 0.000100
+Global Step: 1531
+Global Step: 1532
+Global Step: 1533
+Global Step: 1534
+Global Step: 1535
+Global Step: 1536
+Epoch 1 Average Loss: 90.877
+Epoch 2/1000
+Evaluating:  14%|█▎        | 9/66 [00:21<02:18,  2.42s/it] 
+Global Step: 1537
+Global Step: 1538
+Global Step: 1539
+Global Step: 1540
+Epoch 2, Batch 5, Loss: 24.251, LR: 0.000100
+Global Step: 1541
+Global Step: 1542
+Global Step: 1543
+Global Step: 1544
+Global Step: 1545
+Global Step: 1546
+Global Step: 1547
+Global Step: 1548
+Global Step: 1549
+Global Step: 1550
+Epoch 2, Batch 15, Loss: 23.524, LR: 0.000100
+Epoch 2:   3%|▎         | 42/1536 [00:48<04:16,  5.82it/s]  
+Step 1550 Eval Loss: 103.714
+Global Step: 1551
+Global Step: 1552
+Global Step: 1553
+Global Step: 1554
+Global Step: 1555
+Global Step: 1556
+Global Step: 1557
+Global Step: 1558
+Global Step: 1559
+Global Step: 1560
+Epoch 2, Batch 25, Loss: 23.796, LR: 0.000100
+Global Step: 1561
+Global Step: 1562
+Global Step: 1563
+Global Step: 1564
+Global Step: 1565
+Global Step: 1566
+Global Step: 1567
+Global Step: 1568
+Global Step: 1569
+Global Step: 1570
+Epoch 2, Batch 35, Loss: 23.341, LR: 0.000100
+Global Step: 1571
+Global Step: 1572
+Global Step: 1573
+Global Step: 1574
+Global Step: 1575
+Global Step: 1576
+Global Step: 1577
+Global Step: 1578
+Global Step: 1579
+Global Step: 1580
+Epoch 2, Batch 45, Loss: 23.992, LR: 0.000100
+Global Step: 1581
+Global Step: 1582
+Global Step: 1583
+Global Step: 1584
+Global Step: 1585
+Global Step: 1586
+Global Step: 1587
+Global Step: 1588
+Global Step: 1589
+Global Step: 1590
+Epoch 2, Batch 55, Loss: 22.680, LR: 0.000100
+Global Step: 1591
+Global Step: 1592
+Global Step: 1593
+Global Step: 1594
+Global Step: 1595
+Global Step: 1596
+Global Step: 1597
+Global Step: 1598
+Global Step: 1599
+Global Step: 1600
+Epoch 2, Batch 65, Loss: 25.104, LR: 0.000100
+Epoch 2:   6%|▌         | 92/1536 [01:18<04:26,  5.43it/s]  
+Step 1600 Eval Loss: 103.780
+Global Step: 1601
+Global Step: 1602
+Global Step: 1603
+Global Step: 1604
+Global Step: 1605
+Global Step: 1606
+Global Step: 1607
+Global Step: 1608
+Global Step: 1609
+Global Step: 1610
+Epoch 2, Batch 75, Loss: 24.092, LR: 0.000100
+Global Step: 1611
+Global Step: 1612
+Global Step: 1613
+Global Step: 1614
+Global Step: 1615
+Global Step: 1616
+Global Step: 1617
+Global Step: 1618
+Global Step: 1619
+Global Step: 1620
+Epoch 2, Batch 85, Loss: 23.597, LR: 0.000100
+Global Step: 1621
+Global Step: 1622
+Global Step: 1623
+Global Step: 1624
+Global Step: 1625
+Global Step: 1626
+Global Step: 1627
+Global Step: 1628
+Global Step: 1629
+Global Step: 1630
+Epoch 2, Batch 95, Loss: 23.604, LR: 0.000100
+Global Step: 1631
+Global Step: 1632
+Global Step: 1633
+Global Step: 1634
+Global Step: 1635
+Global Step: 1636
+Global Step: 1637
+Global Step: 1638
+Global Step: 1639
+Global Step: 1640
+Epoch 2, Batch 105, Loss: 22.634, LR: 0.000100
+Global Step: 1641
+Global Step: 1642
+Global Step: 1643
+Global Step: 1644
+Global Step: 1645
+Global Step: 1646
+Global Step: 1647
+Global Step: 1648
+Global Step: 1649
+Global Step: 1650
+Epoch 2, Batch 115, Loss: 22.730, LR: 0.000100
+Epoch 2:   9%|▉         | 142/1536 [01:48<04:11,  5.54it/s]  
+Step 1650 Eval Loss: 103.726
+Global Step: 1651
+Global Step: 1652
+Global Step: 1653
+Global Step: 1654
+Global Step: 1655
+Global Step: 1656
+Global Step: 1657
+Global Step: 1658
+Global Step: 1659
+Global Step: 1660
+Epoch 2, Batch 125, Loss: 23.043, LR: 0.000100
+Global Step: 1661
+Global Step: 1662
+Global Step: 1663
+Global Step: 1664
+Global Step: 1665
+Global Step: 1666
+Global Step: 1667
+Global Step: 1668
+Global Step: 1669
+Global Step: 1670
+Epoch 2, Batch 135, Loss: 22.751, LR: 0.000100
+Global Step: 1671
+Global Step: 1672
+Global Step: 1673
+Global Step: 1674
+Global Step: 1675
+Global Step: 1676
+Global Step: 1677
+Global Step: 1678
+Global Step: 1679
+Global Step: 1680
+Epoch 2, Batch 145, Loss: 23.489, LR: 0.000100
+Global Step: 1681
+Global Step: 1682
+Global Step: 1683
+Global Step: 1684
+Global Step: 1685
+Global Step: 1686
+Global Step: 1687
+Global Step: 1688
+Global Step: 1689
+Global Step: 1690
+Epoch 2, Batch 155, Loss: 24.514, LR: 0.000100
+Global Step: 1691
+Global Step: 1692
+Global Step: 1693
+Global Step: 1694
+Global Step: 1695
+Global Step: 1696
+Global Step: 1697
+Global Step: 1698
+Global Step: 1699
+Global Step: 1700
+Epoch 2, Batch 165, Loss: 24.412, LR: 0.000100
+Epoch 2:  12%|█▏        | 191/1536 [02:18<04:03,  5.51it/s]  
+Step 1700 Eval Loss: 103.696
+Global Step: 1701
+Global Step: 1702
+Global Step: 1703
+Global Step: 1704
+Global Step: 1705
+Global Step: 1706
+Global Step: 1707
+Global Step: 1708
+Global Step: 1709
+Global Step: 1710
+Epoch 2, Batch 175, Loss: 23.674, LR: 0.000100
+Global Step: 1711
+Global Step: 1712
+Global Step: 1713
+Global Step: 1714
+Global Step: 1715
+Global Step: 1716
+Global Step: 1717
+Global Step: 1718
+Global Step: 1719
+Global Step: 1720
+Epoch 2, Batch 185, Loss: 23.117, LR: 0.000100
+Global Step: 1721
+Global Step: 1722
+Global Step: 1723
+Global Step: 1724
+Global Step: 1725
+Global Step: 1726
+Global Step: 1727
+Global Step: 1728
+Global Step: 1729
+Global Step: 1730
+Epoch 2, Batch 195, Loss: 24.383, LR: 0.000100
+Global Step: 1731
+Global Step: 1732
+Global Step: 1733
+Global Step: 1734
+Global Step: 1735
+Global Step: 1736
+Global Step: 1737
+Global Step: 1738
+Global Step: 1739
+Global Step: 1740
+Epoch 2, Batch 205, Loss: 21.192, LR: 0.000100
+Global Step: 1741
+Global Step: 1742
+Global Step: 1743
+Global Step: 1744
+Global Step: 1745
+Global Step: 1746
+Global Step: 1747
+Global Step: 1748
+Global Step: 1749
+Global Step: 1750
+Epoch 2, Batch 215, Loss: 23.785, LR: 0.000100
+Epoch 2:  16%|█▌        | 242/1536 [02:48<04:05,  5.27it/s]  
+Step 1750 Eval Loss: 103.689
+Global Step: 1751
+Global Step: 1752
+Global Step: 1753
+Global Step: 1754
+Global Step: 1755
+Global Step: 1756
+Global Step: 1757
+Global Step: 1758
+Global Step: 1759
+Global Step: 1760
+Epoch 2, Batch 225, Loss: 24.655, LR: 0.000100
+Global Step: 1761
+Global Step: 1762
+Global Step: 1763
+Global Step: 1764
+Global Step: 1765
+Global Step: 1766
+Global Step: 1767
+Global Step: 1768
+Global Step: 1769
+Global Step: 1770
+Epoch 2, Batch 235, Loss: 25.146, LR: 0.000100
+Global Step: 1771
+Global Step: 1772
+Global Step: 1773
+Global Step: 1774
+Global Step: 1775
+Global Step: 1776
+Global Step: 1777
+Global Step: 1778
+Global Step: 1779
+Global Step: 1780
+Epoch 2, Batch 245, Loss: 22.949, LR: 0.000100
+Global Step: 1781
+Global Step: 1782
+Global Step: 1783
+Global Step: 1784
+Global Step: 1785
+Global Step: 1786
+Global Step: 1787
+Global Step: 1788
+Global Step: 1789
+Global Step: 1790
+Epoch 2, Batch 255, Loss: 23.601, LR: 0.000100
+Global Step: 1791
+Global Step: 1792
+Global Step: 1793
+Global Step: 1794
+Global Step: 1795
+Global Step: 1796
+Global Step: 1797
+Global Step: 1798
+Global Step: 1799
+Global Step: 1800
+Epoch 2, Batch 265, Loss: 23.133, LR: 0.000100
+Epoch 2:  19%|█▉        | 292/1536 [03:19<03:56,  5.26it/s]  
+Step 1800 Eval Loss: 103.732
+Global Step: 1801
+Global Step: 1802
+Global Step: 1803
+Global Step: 1804
+Global Step: 1805
+Global Step: 1806
+Global Step: 1807
+Global Step: 1808
+Global Step: 1809
+Global Step: 1810
+Epoch 2, Batch 275, Loss: 23.255, LR: 0.000100
+Global Step: 1811
+Global Step: 1812
+Global Step: 1813
+Global Step: 1814
+Global Step: 1815
+Global Step: 1816
+Global Step: 1817
+Global Step: 1818
+Global Step: 1819
+Global Step: 1820
+Epoch 2, Batch 285, Loss: 22.925, LR: 0.000100
+Global Step: 1821
+Global Step: 1822
+Global Step: 1823
+Global Step: 1824
+Global Step: 1825
+Global Step: 1826
+Global Step: 1827
+Global Step: 1828
+Global Step: 1829
+Global Step: 1830
+Epoch 2, Batch 295, Loss: 23.524, LR: 0.000100
+Global Step: 1831
+Global Step: 1832
+Global Step: 1833
+Global Step: 1834
+Global Step: 1835
+Global Step: 1836
+Global Step: 1837
+Global Step: 1838
+Global Step: 1839
+Global Step: 1840
+Epoch 2, Batch 305, Loss: 23.468, LR: 0.000100
+Global Step: 1841
+Global Step: 1842
+Global Step: 1843
+Global Step: 1844
+Global Step: 1845
+Global Step: 1846
+Global Step: 1847
+Global Step: 1848
+Global Step: 1849
+Global Step: 1850
+Epoch 2, Batch 315, Loss: 24.476, LR: 0.000100
+Epoch 2:  22%|██▏       | 342/1536 [03:49<03:39,  5.43it/s]  
+Step 1850 Eval Loss: 103.652
+Global Step: 1851
+Global Step: 1852
+Global Step: 1853
+Global Step: 1854
+Global Step: 1855
+Global Step: 1856
+Global Step: 1857
+Global Step: 1858
+Global Step: 1859
+Global Step: 1860
+Epoch 2, Batch 325, Loss: 23.052, LR: 0.000100
+Global Step: 1861
+Global Step: 1862
+Global Step: 1863
+Global Step: 1864
+Global Step: 1865
+Global Step: 1866
+Global Step: 1867
+Global Step: 1868
+Global Step: 1869
+Global Step: 1870
+Epoch 2, Batch 335, Loss: 23.586, LR: 0.000100
+Global Step: 1871
+Global Step: 1872
+Global Step: 1873
+Global Step: 1874
+Global Step: 1875
+Global Step: 1876
+Global Step: 1877
+Global Step: 1878
+Global Step: 1879
+Global Step: 1880
+Epoch 2, Batch 345, Loss: 23.296, LR: 0.000100
+Global Step: 1881
+Global Step: 1882
+Global Step: 1883
+Global Step: 1884
+Global Step: 1885
+Global Step: 1886
+Global Step: 1887
+Global Step: 1888
+Global Step: 1889
+Global Step: 1890
+Epoch 2, Batch 355, Loss: 23.033, LR: 0.000100
+Global Step: 1891
+Global Step: 1892
+Global Step: 1893
+Global Step: 1894
+Global Step: 1895
+Global Step: 1896
+Global Step: 1897
+Global Step: 1898
+Global Step: 1899
+Global Step: 1900
+Epoch 2, Batch 365, Loss: 23.531, LR: 0.000100
+Epoch 2:  25%|██▌       | 391/1536 [04:19<03:35,  5.31it/s]  
+Step 1900 Eval Loss: 103.689
+Global Step: 1901
+Global Step: 1902
+Global Step: 1903
+Global Step: 1904
+Global Step: 1905
+Global Step: 1906
+Global Step: 1907
+Global Step: 1908
+Global Step: 1909
+Global Step: 1910
+Epoch 2, Batch 375, Loss: 23.987, LR: 0.000100
+Global Step: 1911
+Global Step: 1912
+Global Step: 1913
+Global Step: 1914
+Global Step: 1915
+Global Step: 1916
+Global Step: 1917
+Global Step: 1918
+Global Step: 1919
+Global Step: 1920
+Epoch 2, Batch 385, Loss: 25.036, LR: 0.000100
+Global Step: 1921
+Global Step: 1922
+Global Step: 1923
+Global Step: 1924
+Global Step: 1925
+Global Step: 1926
+Global Step: 1927
+Global Step: 1928
+Global Step: 1929
+Global Step: 1930
+Epoch 2, Batch 395, Loss: 22.935, LR: 0.000100
+Global Step: 1931
+Global Step: 1932
+Global Step: 1933
+Global Step: 1934
+Global Step: 1935
+Global Step: 1936
+Global Step: 1937
+Global Step: 1938
+Global Step: 1939
+Global Step: 1940
+Epoch 2, Batch 405, Loss: 22.891, LR: 0.000100
+Global Step: 1941
+Global Step: 1942
+Global Step: 1943
+Global Step: 1944
+Global Step: 1945
+Global Step: 1946
+Global Step: 1947
+Global Step: 1948
+Global Step: 1949
+Global Step: 1950
+Epoch 2, Batch 415, Loss: 23.438, LR: 0.000100
+Epoch 2:  29%|██▉       | 442/1536 [04:50<03:11,  5.71it/s]  
+Step 1950 Eval Loss: 103.734
+Global Step: 1951
+Global Step: 1952
+Global Step: 1953
+Global Step: 1954
+Global Step: 1955
+Global Step: 1956
+Global Step: 1957
+Global Step: 1958
+Global Step: 1959
+Global Step: 1960
+Epoch 2, Batch 425, Loss: 22.099, LR: 0.000100
+Global Step: 1961
+Global Step: 1962
+Global Step: 1963
+Global Step: 1964
+Global Step: 1965
+Global Step: 1966
+Global Step: 1967
+Global Step: 1968
+Global Step: 1969
+Global Step: 1970
+Epoch 2, Batch 435, Loss: 24.813, LR: 0.000100
+Global Step: 1971
+Global Step: 1972
+Global Step: 1973
+Global Step: 1974
+Global Step: 1975
+Global Step: 1976
+Global Step: 1977
+Global Step: 1978
+Global Step: 1979
+Global Step: 1980
+Epoch 2, Batch 445, Loss: 23.119, LR: 0.000100
+Global Step: 1981
+Global Step: 1982
+Global Step: 1983
+Global Step: 1984
+Global Step: 1985
+Global Step: 1986
+Global Step: 1987
+Global Step: 1988
+Global Step: 1989
+Global Step: 1990
+Epoch 2, Batch 455, Loss: 24.837, LR: 0.000100
+Global Step: 1991
+Global Step: 1992
+Global Step: 1993
+Global Step: 1994
+Global Step: 1995
+Global Step: 1996
+Global Step: 1997
+Global Step: 1998
+Global Step: 1999
+Global Step: 2000
+Epoch 2, Batch 465, Loss: 23.130, LR: 0.000100
+Epoch 2:  32%|███▏      | 492/1536 [05:20<03:01,  5.74it/s]  
+Step 2000 Eval Loss: 103.721
+Global Step: 2001
+Global Step: 2002
+Global Step: 2003
+Global Step: 2004
+Global Step: 2005
+Global Step: 2006
+Global Step: 2007
+Global Step: 2008
+Global Step: 2009
+Global Step: 2010
+Epoch 2, Batch 475, Loss: 23.969, LR: 0.000100
+Global Step: 2011
+Global Step: 2012
+Global Step: 2013
+Global Step: 2014
+Global Step: 2015
+Global Step: 2016
+Global Step: 2017
+Global Step: 2018
+Global Step: 2019
+Global Step: 2020
+Epoch 2, Batch 485, Loss: 24.345, LR: 0.000100
+Global Step: 2021
+Global Step: 2022
+Global Step: 2023
+Global Step: 2024
+Global Step: 2025
+Global Step: 2026
+Global Step: 2027
+Global Step: 2028
+Global Step: 2029
+Global Step: 2030
+Epoch 2, Batch 495, Loss: 23.942, LR: 0.000100
+Global Step: 2031
+Global Step: 2032
+Global Step: 2033
+Global Step: 2034
+Global Step: 2035
+Global Step: 2036
+Global Step: 2037
+Global Step: 2038
+Global Step: 2039
+Global Step: 2040
+Epoch 2, Batch 505, Loss: 23.964, LR: 0.000100
+Global Step: 2041
+Global Step: 2042
+Global Step: 2043
+Global Step: 2044
+Global Step: 2045
+Global Step: 2046
+Global Step: 2047
+Global Step: 2048
+Global Step: 2049
+Global Step: 2050
+Epoch 2, Batch 515, Loss: 23.333, LR: 0.000100
+Epoch 2:  35%|███▌      | 542/1536 [05:50<03:10,  5.23it/s]  
+Step 2050 Eval Loss: 103.835
+Global Step: 2051
+Global Step: 2052
+Global Step: 2053
+Global Step: 2054
+Global Step: 2055
+Global Step: 2056
+Global Step: 2057
+Global Step: 2058
+Global Step: 2059
+Global Step: 2060
+Epoch 2, Batch 525, Loss: 23.382, LR: 0.000100
+Global Step: 2061
+Global Step: 2062
+Global Step: 2063
+Global Step: 2064
+Global Step: 2065
+Global Step: 2066
+Global Step: 2067
+Global Step: 2068
+Global Step: 2069
+Global Step: 2070
+Epoch 2, Batch 535, Loss: 22.979, LR: 0.000100
+Global Step: 2071
+Global Step: 2072
+Global Step: 2073
+Global Step: 2074
+Global Step: 2075
+Global Step: 2076
+Global Step: 2077
+Global Step: 2078
+Global Step: 2079
+Global Step: 2080
+Epoch 2, Batch 545, Loss: 24.111, LR: 0.000100
+Global Step: 2081
+Global Step: 2082
+Global Step: 2083
+Global Step: 2084
+Global Step: 2085
+Global Step: 2086
+Global Step: 2087
+Global Step: 2088
+Global Step: 2089
+Global Step: 2090
+Epoch 2, Batch 555, Loss: 24.162, LR: 0.000100
+Global Step: 2091
+Global Step: 2092
+Global Step: 2093
+Global Step: 2094
+Global Step: 2095
+Global Step: 2096
+Global Step: 2097
+Global Step: 2098
+Global Step: 2099
+Global Step: 2100
+Epoch 2, Batch 565, Loss: 23.636, LR: 0.000100
+Epoch 2:  39%|███▊      | 592/1536 [06:21<03:06,  5.06it/s]  
+Step 2100 Eval Loss: 103.828
+Global Step: 2101
+Global Step: 2102
+Global Step: 2103
+Global Step: 2104
+Global Step: 2105
+Global Step: 2106
+Global Step: 2107
+Global Step: 2108
+Global Step: 2109
+Global Step: 2110
+Epoch 2, Batch 575, Loss: 23.919, LR: 0.000100
+Global Step: 2111
+Global Step: 2112
+Global Step: 2113
+Global Step: 2114
+Global Step: 2115
+Global Step: 2116
+Global Step: 2117
+Global Step: 2118
+Global Step: 2119
+Global Step: 2120
+Epoch 2, Batch 585, Loss: 23.583, LR: 0.000100
+Global Step: 2121
+Global Step: 2122
+Global Step: 2123
+Global Step: 2124
+Global Step: 2125
+Global Step: 2126
+Global Step: 2127
+Global Step: 2128
+Global Step: 2129
+Global Step: 2130
+Epoch 2, Batch 595, Loss: 22.792, LR: 0.000100
+Global Step: 2131
+Global Step: 2132
+Global Step: 2133
+Global Step: 2134
+Global Step: 2135
+Global Step: 2136
+Global Step: 2137
+Global Step: 2138
+Global Step: 2139
+Global Step: 2140
+Epoch 2, Batch 605, Loss: 24.088, LR: 0.000100
+Global Step: 2141
+Global Step: 2142
+Global Step: 2143
+Global Step: 2144
+Global Step: 2145
+Global Step: 2146
+Global Step: 2147
+Global Step: 2148
+Global Step: 2149
+Global Step: 2150
+Epoch 2, Batch 615, Loss: 23.880, LR: 0.000100
+Epoch 2:  42%|████▏     | 642/1536 [06:51<02:34,  5.77it/s]  
+Step 2150 Eval Loss: 103.733
+Global Step: 2151
+Global Step: 2152
+Global Step: 2153
+Global Step: 2154
+Global Step: 2155
+Global Step: 2156
+Global Step: 2157
+Global Step: 2158
+Global Step: 2159
+Global Step: 2160
+Epoch 2, Batch 625, Loss: 24.886, LR: 0.000100
+Global Step: 2161
+Global Step: 2162
+Global Step: 2163
+Global Step: 2164
+Global Step: 2165
+Global Step: 2166
+Global Step: 2167
+Global Step: 2168
+Global Step: 2169
+Global Step: 2170
+Epoch 2, Batch 635, Loss: 23.327, LR: 0.000100
+Global Step: 2171
+Global Step: 2172
+Global Step: 2173
+Global Step: 2174
+Global Step: 2175
+Global Step: 2176
+Global Step: 2177
+Global Step: 2178
+Global Step: 2179
+Global Step: 2180
+Epoch 2, Batch 645, Loss: 23.825, LR: 0.000100
+Global Step: 2181
+Global Step: 2182
+Global Step: 2183
+Global Step: 2184
+Global Step: 2185
+Global Step: 2186
+Global Step: 2187
+Global Step: 2188
+Global Step: 2189
+Global Step: 2190
+Epoch 2, Batch 655, Loss: 23.701, LR: 0.000100
+Global Step: 2191
+Global Step: 2192
+Global Step: 2193
+Global Step: 2194
+Global Step: 2195
+Global Step: 2196
+Global Step: 2197
+Global Step: 2198
+Global Step: 2199
+Global Step: 2200
+Epoch 2, Batch 665, Loss: 25.226, LR: 0.000100
+Epoch 2:  45%|████▌     | 692/1536 [07:21<02:20,  5.99it/s]  
+Step 2200 Eval Loss: 103.731
+Global Step: 2201
+Global Step: 2202
+Global Step: 2203
+Global Step: 2204
+Global Step: 2205
+Global Step: 2206
+Global Step: 2207
+Global Step: 2208
+Global Step: 2209
+Global Step: 2210
+Epoch 2, Batch 675, Loss: 22.656, LR: 0.000100
+Global Step: 2211
+Global Step: 2212
+Global Step: 2213
+Global Step: 2214
+Global Step: 2215
+Global Step: 2216
+Global Step: 2217
+Global Step: 2218
+Global Step: 2219
+Global Step: 2220
+Epoch 2, Batch 685, Loss: 23.443, LR: 0.000100
+Global Step: 2221
+Global Step: 2222
+Global Step: 2223
+Global Step: 2224
+Global Step: 2225
+Global Step: 2226
+Global Step: 2227
+Global Step: 2228
+Global Step: 2229
+Global Step: 2230
+Epoch 2, Batch 695, Loss: 23.520, LR: 0.000100
+Global Step: 2231
+Global Step: 2232
+Global Step: 2233
+Global Step: 2234
+Global Step: 2235
+Global Step: 2236
+Global Step: 2237
+Global Step: 2238
+Global Step: 2239
+Global Step: 2240
+Epoch 2, Batch 705, Loss: 22.539, LR: 0.000100
+Global Step: 2241
+Global Step: 2242
+Global Step: 2243
+Global Step: 2244
+Global Step: 2245
+Global Step: 2246
+Global Step: 2247
+Global Step: 2248
+Global Step: 2249
+Global Step: 2250
+Epoch 2, Batch 715, Loss: 24.411, LR: 0.000100
+Epoch 2:  48%|████▊     | 742/1536 [07:52<02:31,  5.24it/s]  
+Step 2250 Eval Loss: 103.733
+Global Step: 2251
+Global Step: 2252
+Global Step: 2253
+Global Step: 2254
+Global Step: 2255
+Global Step: 2256
+Global Step: 2257
+Global Step: 2258
+Global Step: 2259
+Global Step: 2260
+Epoch 2, Batch 725, Loss: 22.650, LR: 0.000100
+Global Step: 2261
+Global Step: 2262
+Global Step: 2263
+Global Step: 2264
+Global Step: 2265
+Global Step: 2266
+Global Step: 2267
+Global Step: 2268
+Global Step: 2269
+Global Step: 2270
+Epoch 2, Batch 735, Loss: 24.795, LR: 0.000100
+Global Step: 2271
+Global Step: 2272
+Global Step: 2273
+Global Step: 2274
+Global Step: 2275
+Global Step: 2276
+Global Step: 2277
+Global Step: 2278
+Global Step: 2279
+Global Step: 2280
+Epoch 2, Batch 745, Loss: 23.198, LR: 0.000100
+Global Step: 2281
+Global Step: 2282
+Global Step: 2283
+Global Step: 2284
+Global Step: 2285
+Global Step: 2286
+Global Step: 2287
+Global Step: 2288
+Global Step: 2289
+Global Step: 2290
+Epoch 2, Batch 755, Loss: 21.616, LR: 0.000100
+Global Step: 2291
+Global Step: 2292
+Global Step: 2293
+Global Step: 2294
+Global Step: 2295
+Global Step: 2296
+Global Step: 2297
+Global Step: 2298
+Global Step: 2299
+Global Step: 2300
+Epoch 2, Batch 765, Loss: 25.018, LR: 0.000100
+Epoch 2:  51%|█████▏    | 791/1536 [08:22<02:13,  5.57it/s]
+Step 2300 Eval Loss: 103.710
+Global Step: 2301
+Global Step: 2302
+Global Step: 2303
+Global Step: 2304
+Global Step: 2305
+Global Step: 2306
+Global Step: 2307
+Global Step: 2308
+Global Step: 2309
+Global Step: 2310
+Epoch 2, Batch 775, Loss: 23.841, LR: 0.000100
+Global Step: 2311
+Global Step: 2312
+Global Step: 2313
+Global Step: 2314
+Global Step: 2315
+Global Step: 2316
+Global Step: 2317
+Global Step: 2318
+Global Step: 2319
+Global Step: 2320
+Epoch 2, Batch 785, Loss: 23.976, LR: 0.000100
+Global Step: 2321
+Global Step: 2322
+Global Step: 2323
+Global Step: 2324
+Global Step: 2325
+Global Step: 2326
+Global Step: 2327
+Global Step: 2328
+Global Step: 2329
+Global Step: 2330
+Epoch 2, Batch 795, Loss: 23.103, LR: 0.000100
+Global Step: 2331
+Global Step: 2332
+Global Step: 2333
+Global Step: 2334
+Global Step: 2335
+Global Step: 2336
+Global Step: 2337
+Global Step: 2338
+Global Step: 2339
+Global Step: 2340
+Epoch 2, Batch 805, Loss: 23.697, LR: 0.000100
+Global Step: 2341
+Global Step: 2342
+Global Step: 2343
+Global Step: 2344
+Global Step: 2345
+Global Step: 2346
+Global Step: 2347
+Global Step: 2348
+Global Step: 2349
+Global Step: 2350
+Epoch 2, Batch 815, Loss: 23.875, LR: 0.000100
+Epoch 2:  55%|█████▍    | 842/1536 [08:52<02:00,  5.74it/s]
+Step 2350 Eval Loss: 103.690
+Global Step: 2351
+Global Step: 2352
+Global Step: 2353
+Global Step: 2354
+Global Step: 2355
+Global Step: 2356
+Global Step: 2357
+Global Step: 2358
+Global Step: 2359
+Global Step: 2360
+Epoch 2, Batch 825, Loss: 23.301, LR: 0.000100
+Global Step: 2361
+Global Step: 2362
+Global Step: 2363
+Global Step: 2364
+Global Step: 2365
+Global Step: 2366
+Global Step: 2367
+Global Step: 2368
+Global Step: 2369
+Global Step: 2370
+Epoch 2, Batch 835, Loss: 24.133, LR: 0.000100
+Global Step: 2371
+Global Step: 2372
+Global Step: 2373
+Global Step: 2374
+Global Step: 2375
+Global Step: 2376
+Global Step: 2377
+Global Step: 2378
+Global Step: 2379
+Global Step: 2380
+Epoch 2, Batch 845, Loss: 22.892, LR: 0.000100
+Global Step: 2381
+Global Step: 2382
+Global Step: 2383
+Global Step: 2384
+Global Step: 2385
+Global Step: 2386
+Global Step: 2387
+Global Step: 2388
+Global Step: 2389
+Global Step: 2390
+Epoch 2, Batch 855, Loss: 23.630, LR: 0.000100
+Global Step: 2391
+Global Step: 2392
+Global Step: 2393
+Global Step: 2394
+Global Step: 2395
+Global Step: 2396
+Global Step: 2397
+Global Step: 2398
+Global Step: 2399
+Global Step: 2400
+Epoch 2, Batch 865, Loss: 24.548, LR: 0.000100
+Epoch 2:  58%|█████▊    | 892/1536 [09:23<01:44,  6.17it/s]
+Step 2400 Eval Loss: 103.705
+Global Step: 2401
+Global Step: 2402
+Global Step: 2403
+Global Step: 2404
+Global Step: 2405
+Global Step: 2406
+Global Step: 2407
+Global Step: 2408
+Global Step: 2409
+Global Step: 2410
+Epoch 2, Batch 875, Loss: 24.434, LR: 0.000100
+Global Step: 2411
+Global Step: 2412
+Global Step: 2413
+Global Step: 2414
+Global Step: 2415
+Global Step: 2416
+Global Step: 2417
+Global Step: 2418
+Global Step: 2419
+Global Step: 2420
+Epoch 2, Batch 885, Loss: 23.839, LR: 0.000100
+Global Step: 2421
+Global Step: 2422
+Global Step: 2423
+Global Step: 2424
+Global Step: 2425
+Global Step: 2426
+Global Step: 2427
+Global Step: 2428
+Global Step: 2429
+Global Step: 2430
+Epoch 2, Batch 895, Loss: 22.810, LR: 0.000100
+Global Step: 2431
+Global Step: 2432
+Global Step: 2433
+Global Step: 2434
+Global Step: 2435
+Global Step: 2436
+Global Step: 2437
+Global Step: 2438
+Global Step: 2439
+Global Step: 2440
+Epoch 2, Batch 905, Loss: 23.665, LR: 0.000100
+Global Step: 2441
+Global Step: 2442
+Global Step: 2443
+Global Step: 2444
+Global Step: 2445
+Global Step: 2446
+Global Step: 2447
+Global Step: 2448
+Global Step: 2449
+Global Step: 2450
+Epoch 2, Batch 915, Loss: 23.103, LR: 0.000100
+Epoch 2:  61%|██████▏   | 942/1536 [09:53<01:55,  5.13it/s]  
+Step 2450 Eval Loss: 103.845
+Global Step: 2451
+Global Step: 2452
+Global Step: 2453
+Global Step: 2454
+Global Step: 2455
+Global Step: 2456
+Global Step: 2457
+Global Step: 2458
+Global Step: 2459
+Global Step: 2460
+Epoch 2, Batch 925, Loss: 22.124, LR: 0.000100
+Global Step: 2461
+Global Step: 2462
+Global Step: 2463
+Global Step: 2464
+Global Step: 2465
+Global Step: 2466
+Global Step: 2467
+Global Step: 2468
+Global Step: 2469
+Global Step: 2470
+Epoch 2, Batch 935, Loss: 24.026, LR: 0.000100
+Global Step: 2471
+Global Step: 2472
+Global Step: 2473
+Global Step: 2474
+Global Step: 2475
+Global Step: 2476
+Global Step: 2477
+Global Step: 2478
+Global Step: 2479
+Global Step: 2480
+Epoch 2, Batch 945, Loss: 23.061, LR: 0.000100
+Global Step: 2481
+Global Step: 2482
+Global Step: 2483
+Global Step: 2484
+Global Step: 2485
+Global Step: 2486
+Global Step: 2487
+Global Step: 2488
+Global Step: 2489
+Global Step: 2490
+Epoch 2, Batch 955, Loss: 23.618, LR: 0.000100
+Global Step: 2491
+Global Step: 2492
+Global Step: 2493
+Global Step: 2494
+Global Step: 2495
+Global Step: 2496
+Global Step: 2497
+Global Step: 2498
+Global Step: 2499
+Global Step: 2500
+Epoch 2, Batch 965, Loss: 23.725, LR: 0.000100
+Epoch 2:  65%|██████▍   | 992/1536 [10:23<01:25,  6.33it/s]
+Step 2500 Eval Loss: 103.673
+Global Step: 2501
+Global Step: 2502
+Global Step: 2503
+Global Step: 2504
+Global Step: 2505
+Global Step: 2506
+Global Step: 2507
+Global Step: 2508
+Global Step: 2509
+Global Step: 2510
+Epoch 2, Batch 975, Loss: 23.854, LR: 0.000100
+Global Step: 2511
+Global Step: 2512
+Global Step: 2513
+Global Step: 2514
+Global Step: 2515
+Global Step: 2516
+Global Step: 2517
+Global Step: 2518
+Global Step: 2519
+Global Step: 2520
+Epoch 2, Batch 985, Loss: 24.492, LR: 0.000100
+Global Step: 2521
+Global Step: 2522
+Global Step: 2523
+Global Step: 2524
+Global Step: 2525
+Global Step: 2526
+Global Step: 2527
+Global Step: 2528
+Global Step: 2529
+Global Step: 2530
+Epoch 2, Batch 995, Loss: 24.783, LR: 0.000100
+Global Step: 2531
+Global Step: 2532
+Global Step: 2533
+Global Step: 2534
+Global Step: 2535
+Global Step: 2536
+Global Step: 2537
+Global Step: 2538
+Global Step: 2539
+Global Step: 2540
+Epoch 2, Batch 1005, Loss: 23.208, LR: 0.000100
+Global Step: 2541
+Global Step: 2542
+Global Step: 2543
+Global Step: 2544
+Global Step: 2545
+Global Step: 2546
+Global Step: 2547
+Global Step: 2548
+Global Step: 2549
+Global Step: 2550
+Epoch 2, Batch 1015, Loss: 24.277, LR: 0.000100
+Epoch 2:  68%|██████▊   | 1042/1536 [10:54<01:31,  5.40it/s]
+Step 2550 Eval Loss: 103.721
+Global Step: 2551
+Global Step: 2552
+Global Step: 2553
+Global Step: 2554
+Global Step: 2555
+Global Step: 2556
+Global Step: 2557
+Global Step: 2558
+Global Step: 2559
+Global Step: 2560
+Epoch 2, Batch 1025, Loss: 24.443, LR: 0.000100
+Global Step: 2561
+Global Step: 2562
+Global Step: 2563
+Global Step: 2564
+Global Step: 2565
+Global Step: 2566
+Global Step: 2567
+Global Step: 2568
+Global Step: 2569
+Global Step: 2570
+Epoch 2, Batch 1035, Loss: 24.474, LR: 0.000100
+Global Step: 2571
+Global Step: 2572
+Global Step: 2573
+Global Step: 2574
+Global Step: 2575
+Global Step: 2576
+Global Step: 2577
+Global Step: 2578
+Global Step: 2579
+Global Step: 2580
+Epoch 2, Batch 1045, Loss: 23.303, LR: 0.000100
+Global Step: 2581
+Global Step: 2582
+Global Step: 2583
+Global Step: 2584
+Global Step: 2585
+Global Step: 2586
+Global Step: 2587
+Global Step: 2588
+Global Step: 2589
+Global Step: 2590
+Epoch 2, Batch 1055, Loss: 24.884, LR: 0.000100
+Global Step: 2591
+Global Step: 2592
+Global Step: 2593
+Global Step: 2594
+Global Step: 2595
+Global Step: 2596
+Global Step: 2597
+Global Step: 2598
+Global Step: 2599
+Global Step: 2600
+Epoch 2, Batch 1065, Loss: 23.376, LR: 0.000100
+Epoch 2:  71%|███████   | 1091/1536 [11:24<01:22,  5.38it/s]
+Step 2600 Eval Loss: 103.628
+Global Step: 2601
+Global Step: 2602
+Global Step: 2603
+Global Step: 2604
+Global Step: 2605
+Global Step: 2606
+Global Step: 2607
+Global Step: 2608
+Global Step: 2609
+Global Step: 2610
+Epoch 2, Batch 1075, Loss: 24.027, LR: 0.000100
+Global Step: 2611
+Global Step: 2612
+Global Step: 2613
+Global Step: 2614
+Global Step: 2615
+Global Step: 2616
+Global Step: 2617
+Global Step: 2618
+Global Step: 2619
+Global Step: 2620
+Epoch 2, Batch 1085, Loss: 24.415, LR: 0.000100
+Global Step: 2621
+Global Step: 2622
+Global Step: 2623
+Global Step: 2624
+Global Step: 2625
+Global Step: 2626
+Global Step: 2627
+Global Step: 2628
+Global Step: 2629
+Global Step: 2630
+Epoch 2, Batch 1095, Loss: 24.375, LR: 0.000100
+Global Step: 2631
+Global Step: 2632
+Global Step: 2633
+Global Step: 2634
+Global Step: 2635
+Global Step: 2636
+Global Step: 2637
+Global Step: 2638
+Global Step: 2639
+Global Step: 2640
+Epoch 2, Batch 1105, Loss: 24.588, LR: 0.000100
+Global Step: 2641
+Global Step: 2642
+Global Step: 2643
+Global Step: 2644
+Global Step: 2645
+Global Step: 2646
+Global Step: 2647
+Global Step: 2648
+Global Step: 2649
+Global Step: 2650
+Epoch 2, Batch 1115, Loss: 21.924, LR: 0.000100
+Epoch 2:  74%|███████▍  | 1142/1536 [11:54<01:12,  5.46it/s]
+Step 2650 Eval Loss: 103.775
+Global Step: 2651
+Global Step: 2652
+Global Step: 2653
+Global Step: 2654
+Global Step: 2655
+Global Step: 2656
+Global Step: 2657
+Global Step: 2658
+Global Step: 2659
+Global Step: 2660
+Epoch 2, Batch 1125, Loss: 24.404, LR: 0.000100
+Global Step: 2661
+Global Step: 2662
+Global Step: 2663
+Global Step: 2664
+Global Step: 2665
+Global Step: 2666
+Global Step: 2667
+Global Step: 2668
+Global Step: 2669
+Global Step: 2670
+Epoch 2, Batch 1135, Loss: 24.521, LR: 0.000100
+Global Step: 2671
+Global Step: 2672
+Global Step: 2673
+Global Step: 2674
+Global Step: 2675
+Global Step: 2676
+Global Step: 2677
+Global Step: 2678
+Global Step: 2679
+Global Step: 2680
+Epoch 2, Batch 1145, Loss: 22.931, LR: 0.000100
+Global Step: 2681
+Global Step: 2682
+Global Step: 2683
+Global Step: 2684
+Global Step: 2685
+Global Step: 2686
+Global Step: 2687
+Global Step: 2688
+Global Step: 2689
+Global Step: 2690
+Epoch 2, Batch 1155, Loss: 23.689, LR: 0.000100
+Global Step: 2691
+Global Step: 2692
+Global Step: 2693
+Global Step: 2694
+Global Step: 2695
+Global Step: 2696
+Global Step: 2697
+Global Step: 2698
+Global Step: 2699
+Global Step: 2700
+Epoch 2, Batch 1165, Loss: 24.612, LR: 0.000100
+Epoch 2:  78%|███████▊  | 1192/1536 [12:24<01:04,  5.34it/s]
+Step 2700 Eval Loss: 103.688
+Global Step: 2701
+Global Step: 2702
+Global Step: 2703
+Global Step: 2704
+Global Step: 2705
+Global Step: 2706
+Global Step: 2707
+Global Step: 2708
+Global Step: 2709
+Global Step: 2710
+Epoch 2, Batch 1175, Loss: 24.887, LR: 0.000100
+Global Step: 2711
+Global Step: 2712
+Global Step: 2713
+Global Step: 2714
+Global Step: 2715
+Global Step: 2716
+Global Step: 2717
+Global Step: 2718
+Global Step: 2719
+Global Step: 2720
+Epoch 2, Batch 1185, Loss: 24.619, LR: 0.000099
+Global Step: 2721
+Global Step: 2722
+Global Step: 2723
+Global Step: 2724
+Global Step: 2725
+Global Step: 2726
+Global Step: 2727
+Global Step: 2728
+Global Step: 2729
+Global Step: 2730
+Epoch 2, Batch 1195, Loss: 23.953, LR: 0.000099
+Global Step: 2731
+Global Step: 2732
+Global Step: 2733
+Global Step: 2734
+Global Step: 2735
+Global Step: 2736
+Global Step: 2737
+Global Step: 2738
+Global Step: 2739
+Global Step: 2740
+Epoch 2, Batch 1205, Loss: 23.310, LR: 0.000099
+Global Step: 2741
+Global Step: 2742
+Global Step: 2743
+Global Step: 2744
+Global Step: 2745
+Global Step: 2746
+Global Step: 2747
+Global Step: 2748
+Global Step: 2749
+Global Step: 2750
+Epoch 2, Batch 1215, Loss: 23.997, LR: 0.000099
+Epoch 2:  81%|████████  | 1242/1536 [12:55<00:52,  5.55it/s]
+Step 2750 Eval Loss: 103.685
+Global Step: 2751
+Global Step: 2752
+Global Step: 2753
+Global Step: 2754
+Global Step: 2755
+Global Step: 2756
+Global Step: 2757
+Global Step: 2758
+Global Step: 2759
+Global Step: 2760
+Epoch 2, Batch 1225, Loss: 23.445, LR: 0.000099
+Global Step: 2761
+Global Step: 2762
+Global Step: 2763
+Global Step: 2764
+Global Step: 2765
+Global Step: 2766
+Global Step: 2767
+Global Step: 2768
+Global Step: 2769
+Global Step: 2770
+Epoch 2, Batch 1235, Loss: 23.989, LR: 0.000099
+Global Step: 2771
+Global Step: 2772
+Global Step: 2773
+Global Step: 2774
+Global Step: 2775
+Global Step: 2776
+Global Step: 2777
+Global Step: 2778
+Global Step: 2779
+Global Step: 2780
+Epoch 2, Batch 1245, Loss: 23.174, LR: 0.000099
+Global Step: 2781
+Global Step: 2782
+Global Step: 2783
+Global Step: 2784
+Global Step: 2785
+Global Step: 2786
+Global Step: 2787
+Global Step: 2788
+Global Step: 2789
+Global Step: 2790
+Epoch 2, Batch 1255, Loss: 23.568, LR: 0.000099
+Global Step: 2791
+Global Step: 2792
+Global Step: 2793
+Global Step: 2794
+Global Step: 2795
+Global Step: 2796
+Global Step: 2797
+Global Step: 2798
+Global Step: 2799
+Global Step: 2800
+Epoch 2, Batch 1265, Loss: 22.572, LR: 0.000099
+Epoch 2:  84%|████████▍ | 1292/1536 [13:25<00:46,  5.21it/s]
+Step 2800 Eval Loss: 103.746
+Global Step: 2801
+Global Step: 2802
+Global Step: 2803
+Global Step: 2804
+Global Step: 2805
+Global Step: 2806
+Global Step: 2807
+Global Step: 2808
+Global Step: 2809
+Global Step: 2810
+Epoch 2, Batch 1275, Loss: 23.258, LR: 0.000099
+Global Step: 2811
+Global Step: 2812
+Global Step: 2813
+Global Step: 2814
+Global Step: 2815
+Global Step: 2816
+Global Step: 2817
+Global Step: 2818
+Global Step: 2819
+Global Step: 2820
+Epoch 2, Batch 1285, Loss: 23.121, LR: 0.000099
+Global Step: 2821
+Global Step: 2822
+Global Step: 2823
+Global Step: 2824
+Global Step: 2825
+Global Step: 2826
+Global Step: 2827
+Global Step: 2828
+Global Step: 2829
+Global Step: 2830
+Epoch 2, Batch 1295, Loss: 23.829, LR: 0.000099
+Global Step: 2831
+Global Step: 2832
+Global Step: 2833
+Global Step: 2834
+Global Step: 2835
+Global Step: 2836
+Global Step: 2837
+Global Step: 2838
+Global Step: 2839
+Global Step: 2840
+Epoch 2, Batch 1305, Loss: 23.866, LR: 0.000099
+Global Step: 2841
+Global Step: 2842
+Global Step: 2843
+Global Step: 2844
+Global Step: 2845
+Global Step: 2846
+Global Step: 2847
+Global Step: 2848
+Global Step: 2849
+Global Step: 2850
+Epoch 2, Batch 1315, Loss: 21.566, LR: 0.000099
+Epoch 2:  87%|████████▋ | 1342/1536 [13:55<00:36,  5.30it/s]
+Step 2850 Eval Loss: 103.707
+Global Step: 2851
+Global Step: 2852
+Global Step: 2853
+Global Step: 2854
+Global Step: 2855
+Global Step: 2856
+Global Step: 2857
+Global Step: 2858
+Global Step: 2859
+Global Step: 2860
+Epoch 2, Batch 1325, Loss: 23.297, LR: 0.000099
+Global Step: 2861
+Global Step: 2862
+Global Step: 2863
+Global Step: 2864
+Global Step: 2865
+Global Step: 2866
+Global Step: 2867
+Global Step: 2868
+Global Step: 2869
+Global Step: 2870
+Epoch 2, Batch 1335, Loss: 24.059, LR: 0.000099
+Global Step: 2871
+Global Step: 2872
+Global Step: 2873
+Global Step: 2874
+Global Step: 2875
+Global Step: 2876
+Global Step: 2877
+Global Step: 2878
+Global Step: 2879
+Global Step: 2880
+Epoch 2, Batch 1345, Loss: 23.245, LR: 0.000099
+Global Step: 2881
+Global Step: 2882
+Global Step: 2883
+Global Step: 2884
+Global Step: 2885
+Global Step: 2886
+Global Step: 2887
+Global Step: 2888
+Global Step: 2889
+Global Step: 2890
+Epoch 2, Batch 1355, Loss: 23.242, LR: 0.000099
+Global Step: 2891
+Global Step: 2892
+Global Step: 2893
+Global Step: 2894
+Global Step: 2895
+Global Step: 2896
+Global Step: 2897
+Global Step: 2898
+Global Step: 2899
+Global Step: 2900
+Epoch 2, Batch 1365, Loss: 24.383, LR: 0.000099
+Epoch 2:  91%|█████████ | 1392/1536 [14:26<00:25,  5.55it/s]
+Step 2900 Eval Loss: 103.636
+Global Step: 2901
+Global Step: 2902
+Global Step: 2903
+Global Step: 2904
+Global Step: 2905
+Global Step: 2906
+Global Step: 2907
+Global Step: 2908
+Global Step: 2909
+Global Step: 2910
+Epoch 2, Batch 1375, Loss: 23.222, LR: 0.000099
+Global Step: 2911
+Global Step: 2912
+Global Step: 2913
+Global Step: 2914
+Global Step: 2915
+Global Step: 2916
+Global Step: 2917
+Global Step: 2918
+Global Step: 2919
+Global Step: 2920
+Epoch 2, Batch 1385, Loss: 23.581, LR: 0.000099
+Global Step: 2921
+Global Step: 2922
+Global Step: 2923
+Global Step: 2924
+Global Step: 2925
+Global Step: 2926
+Global Step: 2927
+Global Step: 2928
+Global Step: 2929
+Global Step: 2930
+Epoch 2, Batch 1395, Loss: 22.761, LR: 0.000099
+Global Step: 2931
+Global Step: 2932
+Global Step: 2933
+Global Step: 2934
+Global Step: 2935
+Global Step: 2936
+Global Step: 2937
+Global Step: 2938
+Global Step: 2939
+Global Step: 2940
+Epoch 2, Batch 1405, Loss: 22.970, LR: 0.000099
+Global Step: 2941
+Global Step: 2942
+Global Step: 2943
+Global Step: 2944
+Global Step: 2945
+Global Step: 2946
+Global Step: 2947
+Global Step: 2948
+Global Step: 2949
+Global Step: 2950
+Epoch 2, Batch 1415, Loss: 24.267, LR: 0.000099
+Epoch 2:  94%|█████████▍| 1442/1536 [14:56<00:18,  4.96it/s]
+Step 2950 Eval Loss: 103.771
+Global Step: 2951
+Global Step: 2952
+Global Step: 2953
+Global Step: 2954
+Global Step: 2955
+Global Step: 2956
+Global Step: 2957
+Global Step: 2958
+Global Step: 2959
+Global Step: 2960
+Epoch 2, Batch 1425, Loss: 22.547, LR: 0.000099
+Global Step: 2961
+Global Step: 2962
+Global Step: 2963
+Global Step: 2964
+Global Step: 2965
+Global Step: 2966
+Global Step: 2967
+Global Step: 2968
+Global Step: 2969
+Global Step: 2970
+Epoch 2, Batch 1435, Loss: 24.866, LR: 0.000099
+Global Step: 2971
+Global Step: 2972
+Global Step: 2973
+Global Step: 2974
+Global Step: 2975
+Global Step: 2976
+Global Step: 2977
+Global Step: 2978
+Global Step: 2979
+Global Step: 2980
+Epoch 2, Batch 1445, Loss: 22.575, LR: 0.000099
+Global Step: 2981
+Global Step: 2982
+Global Step: 2983
+Global Step: 2984
+Global Step: 2985
+Global Step: 2986
+Global Step: 2987
+Global Step: 2988
+Global Step: 2989
+Global Step: 2990
+Epoch 2, Batch 1455, Loss: 21.059, LR: 0.000099
+Global Step: 2991
+Global Step: 2992
+Global Step: 2993
+Global Step: 2994
+Global Step: 2995
+Global Step: 2996
+Global Step: 2997
+Global Step: 2998
+Global Step: 2999
+Global Step: 3000
+Epoch 2, Batch 1465, Loss: 24.075, LR: 0.000099
+Epoch 2:  97%|█████████▋| 1492/1536 [15:26<00:08,  5.31it/s]
+Step 3000 Eval Loss: 103.669
+Global Step: 3001
+Global Step: 3002
+Global Step: 3003
+Global Step: 3004
+Global Step: 3005
+Global Step: 3006
+Global Step: 3007
+Global Step: 3008
+Global Step: 3009
+Global Step: 3010
+Epoch 2, Batch 1475, Loss: 24.383, LR: 0.000099
+Global Step: 3011
+Global Step: 3012
+Global Step: 3013
+Global Step: 3014
+Global Step: 3015
+Global Step: 3016
+Global Step: 3017
+Global Step: 3018
+Global Step: 3019
+Global Step: 3020
+Epoch 2, Batch 1485, Loss: 23.455, LR: 0.000099
+Global Step: 3021
+Global Step: 3022
+Global Step: 3023
+Global Step: 3024
+Global Step: 3025
+Global Step: 3026
+Global Step: 3027
+Global Step: 3028
+Global Step: 3029
+Global Step: 3030
+Epoch 2, Batch 1495, Loss: 22.210, LR: 0.000099
+Global Step: 3031
+Global Step: 3032
+Global Step: 3033
+Global Step: 3034
+Global Step: 3035
+Global Step: 3036
+Global Step: 3037
+Global Step: 3038
+Global Step: 3039
+Global Step: 3040
+Epoch 2, Batch 1505, Loss: 23.314, LR: 0.000099
+Global Step: 3041
+Global Step: 3042
+Global Step: 3043
+Global Step: 3044
+Global Step: 3045
+Global Step: 3046
+Global Step: 3047
+Global Step: 3048
+Global Step: 3049
+Global Step: 3050
+Epoch 2, Batch 1515, Loss: 24.541, LR: 0.000099
+Epoch 2: 100%|██████████| 1536/1536 [15:56<00:00,  1.61it/s]
+Step 3050 Eval Loss: 103.655
+Global Step: 3051
+Global Step: 3052
+Global Step: 3053
+Global Step: 3054
+Global Step: 3055
+Global Step: 3056
+Global Step: 3057
+Global Step: 3058
+Global Step: 3059
+Global Step: 3060
+Epoch 2, Batch 1525, Loss: 23.690, LR: 0.000099
+Global Step: 3061
+Global Step: 3062
+Global Step: 3063
+Global Step: 3064
+Global Step: 3065
+Global Step: 3066
+Global Step: 3067
+Global Step: 3068
+Global Step: 3069
+Global Step: 3070
+Epoch 2, Batch 1535, Loss: 23.057, LR: 0.000099
+Global Step: 3071
+Global Step: 3072
+Epoch 2 Average Loss: 94.399
+Epoch 3/1000
+Epoch 3:   2%|▏         | 27/1536 [00:23<04:40,  5.37it/s] 
+Global Step: 3073
+Global Step: 3074
+Global Step: 3075
+Global Step: 3076
+Global Step: 3077
+Global Step: 3078
+Global Step: 3079
+Global Step: 3080
+Epoch 3, Batch 9, Loss: 23.712, LR: 0.000099
+Global Step: 3081
+Global Step: 3082
+Global Step: 3083
+Global Step: 3084
+Global Step: 3085
+Global Step: 3086
+Global Step: 3087
+Global Step: 3088
+Global Step: 3089
+Global Step: 3090
+Epoch 3, Batch 19, Loss: 23.300, LR: 0.000099
+Global Step: 3091
+Global Step: 3092
+Global Step: 3093
+Global Step: 3094
+Global Step: 3095
+Global Step: 3096
+Global Step: 3097
+Global Step: 3098
+Global Step: 3099
+Global Step: 3100
+Epoch 3, Batch 29, Loss: 23.401, LR: 0.000099
+Epoch 3:   4%|▎         | 56/1536 [00:50<04:49,  5.11it/s]  
+Step 3100 Eval Loss: 103.628
+Global Step: 3101
+Global Step: 3102
+Global Step: 3103
+Global Step: 3104
+Global Step: 3105
+Global Step: 3106
+Global Step: 3107
+Global Step: 3108
+Global Step: 3109
+Global Step: 3110
+Epoch 3, Batch 39, Loss: 23.299, LR: 0.000099
+Global Step: 3111
+Global Step: 3112
+Global Step: 3113
+Global Step: 3114
+Global Step: 3115
+Global Step: 3116
+Global Step: 3117
+Global Step: 3118
+Global Step: 3119
+Global Step: 3120
+Epoch 3, Batch 49, Loss: 21.715, LR: 0.000099
+Global Step: 3121
+Global Step: 3122
+Global Step: 3123
+Global Step: 3124
+Global Step: 3125
+Global Step: 3126
+Global Step: 3127
+Global Step: 3128
+Global Step: 3129
+Global Step: 3130
+Epoch 3, Batch 59, Loss: 24.623, LR: 0.000099
+Global Step: 3131
+Global Step: 3132
+Global Step: 3133
+Global Step: 3134
+Global Step: 3135
+Global Step: 3136
+Global Step: 3137
+Global Step: 3138
+Global Step: 3139
+Global Step: 3140
+Epoch 3, Batch 69, Loss: 23.941, LR: 0.000099
+Global Step: 3141
+Global Step: 3142
+Global Step: 3143
+Global Step: 3144
+Global Step: 3145
+Global Step: 3146
+Global Step: 3147
+Global Step: 3148
+Global Step: 3149
+Global Step: 3150
+Epoch 3, Batch 79, Loss: 23.509, LR: 0.000099
+Epoch 3:   7%|▋         | 106/1536 [01:20<04:19,  5.51it/s] 
+Step 3150 Eval Loss: 103.672
+Global Step: 3151
+Global Step: 3152
+Global Step: 3153
+Global Step: 3154
+Global Step: 3155
+Global Step: 3156
+Global Step: 3157
+Global Step: 3158
+Global Step: 3159
+Global Step: 3160
+Epoch 3, Batch 89, Loss: 24.037, LR: 0.000099
+Global Step: 3161
+Global Step: 3162
+Global Step: 3163
+Global Step: 3164
+Global Step: 3165
+Global Step: 3166
+Global Step: 3167
+Global Step: 3168
+Global Step: 3169
+Global Step: 3170
+Epoch 3, Batch 99, Loss: 24.352, LR: 0.000099
+Global Step: 3171
+Global Step: 3172
+Global Step: 3173
+Global Step: 3174
+Global Step: 3175
+Global Step: 3176
+Global Step: 3177
+Global Step: 3178
+Global Step: 3179
+Global Step: 3180
+Epoch 3, Batch 109, Loss: 24.004, LR: 0.000099
+Global Step: 3181
+Global Step: 3182
+Global Step: 3183
+Global Step: 3184
+Global Step: 3185
+Global Step: 3186
+Global Step: 3187
+Global Step: 3188
+Global Step: 3189
+Global Step: 3190
+Epoch 3, Batch 119, Loss: 23.598, LR: 0.000099
+Global Step: 3191
+Global Step: 3192
+Global Step: 3193
+Global Step: 3194
+Global Step: 3195
+Global Step: 3196
+Global Step: 3197
+Global Step: 3198
+Global Step: 3199
+Global Step: 3200
+Epoch 3, Batch 129, Loss: 23.983, LR: 0.000099
+Epoch 3:  10%|█         | 156/1536 [01:51<04:19,  5.32it/s]  
+Step 3200 Eval Loss: 103.876
+Global Step: 3201
+Global Step: 3202
+Global Step: 3203
+Global Step: 3204
+Global Step: 3205
+Global Step: 3206
+Global Step: 3207
+Global Step: 3208
+Global Step: 3209
+Global Step: 3210
+Epoch 3, Batch 139, Loss: 22.461, LR: 0.000099
+Global Step: 3211
+Global Step: 3212
+Global Step: 3213
+Global Step: 3214
+Global Step: 3215
+Global Step: 3216
+Global Step: 3217
+Global Step: 3218
+Global Step: 3219
+Global Step: 3220
+Epoch 3, Batch 149, Loss: 23.982, LR: 0.000099
+Global Step: 3221
+Global Step: 3222
+Global Step: 3223
+Global Step: 3224
+Global Step: 3225
+Global Step: 3226
+Global Step: 3227
+Global Step: 3228
+Global Step: 3229
+Global Step: 3230
+Epoch 3, Batch 159, Loss: 24.570, LR: 0.000099
+Global Step: 3231
+Global Step: 3232
+Global Step: 3233
+Global Step: 3234
+Global Step: 3235
+Global Step: 3236
+Global Step: 3237
+Global Step: 3238
+Global Step: 3239
+Global Step: 3240
+Epoch 3, Batch 169, Loss: 24.029, LR: 0.000099
+Global Step: 3241
+Global Step: 3242
+Global Step: 3243
+Global Step: 3244
+Global Step: 3245
+Global Step: 3246
+Global Step: 3247
+Global Step: 3248
+Global Step: 3249
+Global Step: 3250
+Epoch 3, Batch 179, Loss: 24.455, LR: 0.000099
+Epoch 3:  13%|█▎        | 205/1536 [02:21<04:06,  5.39it/s]  
+Step 3250 Eval Loss: 103.661
+Global Step: 3251
+Global Step: 3252
+Global Step: 3253
+Global Step: 3254
+Global Step: 3255
+Global Step: 3256
+Global Step: 3257
+Global Step: 3258
+Global Step: 3259
+Global Step: 3260
+Epoch 3, Batch 189, Loss: 23.313, LR: 0.000099
+Global Step: 3261
+Global Step: 3262
+Global Step: 3263
+Global Step: 3264
+Global Step: 3265
+Global Step: 3266
+Global Step: 3267
+Global Step: 3268
+Global Step: 3269
+Global Step: 3270
+Epoch 3, Batch 199, Loss: 23.980, LR: 0.000099
+Global Step: 3271
+Global Step: 3272
+Global Step: 3273
+Global Step: 3274
+Global Step: 3275
+Global Step: 3276
+Global Step: 3277
+Global Step: 3278
+Global Step: 3279
+Global Step: 3280
+Epoch 3, Batch 209, Loss: 23.794, LR: 0.000099
+Global Step: 3281
+Global Step: 3282
+Global Step: 3283
+Global Step: 3284
+Global Step: 3285
+Global Step: 3286
+Global Step: 3287
+Global Step: 3288
+Global Step: 3289
+Global Step: 3290
+Epoch 3, Batch 219, Loss: 24.509, LR: 0.000099
+Global Step: 3291
+Global Step: 3292
+Global Step: 3293
+Global Step: 3294
+Global Step: 3295
+Global Step: 3296
+Global Step: 3297
+Global Step: 3298
+Global Step: 3299
+Global Step: 3300
+Epoch 3, Batch 229, Loss: 24.506, LR: 0.000099
+Epoch 3:  17%|█▋        | 256/1536 [02:52<03:33,  5.99it/s]  
+Step 3300 Eval Loss: 103.620
+Global Step: 3301
+Global Step: 3302
+Global Step: 3303
+Global Step: 3304
+Global Step: 3305
+Global Step: 3306
+Global Step: 3307
+Global Step: 3308
+Global Step: 3309
+Global Step: 3310
+Epoch 3, Batch 239, Loss: 22.698, LR: 0.000099
+Global Step: 3311
+Global Step: 3312
+Global Step: 3313
+Global Step: 3314
+Global Step: 3315
+Global Step: 3316
+Global Step: 3317
+Global Step: 3318
+Global Step: 3319
+Global Step: 3320
+Epoch 3, Batch 249, Loss: 24.125, LR: 0.000099
+Global Step: 3321
+Global Step: 3322
+Global Step: 3323
+Global Step: 3324
+Global Step: 3325
+Global Step: 3326
+Global Step: 3327
+Global Step: 3328
+Global Step: 3329
+Global Step: 3330
+Epoch 3, Batch 259, Loss: 24.483, LR: 0.000099
+Global Step: 3331
+Global Step: 3332
+Global Step: 3333
+Global Step: 3334
+Global Step: 3335
+Global Step: 3336
+Global Step: 3337
+Global Step: 3338
+Global Step: 3339
+Global Step: 3340
+Epoch 3, Batch 269, Loss: 23.123, LR: 0.000099
+Global Step: 3341
+Global Step: 3342
+Global Step: 3343
+Global Step: 3344
+Global Step: 3345
+Global Step: 3346
+Global Step: 3347
+Global Step: 3348
+Global Step: 3349
+Global Step: 3350
+Epoch 3, Batch 279, Loss: 23.938, LR: 0.000099
+Epoch 3:  20%|█▉        | 306/1536 [03:23<03:47,  5.40it/s]  
+Step 3350 Eval Loss: 103.673
+Global Step: 3351
+Global Step: 3352
+Global Step: 3353
+Global Step: 3354
+Global Step: 3355
+Global Step: 3356
+Global Step: 3357
+Global Step: 3358
+Global Step: 3359
+Global Step: 3360
+Epoch 3, Batch 289, Loss: 25.176, LR: 0.000099
+Global Step: 3361
+Global Step: 3362
+Global Step: 3363
+Global Step: 3364
+Global Step: 3365
+Global Step: 3366
+Global Step: 3367
+Global Step: 3368
+Global Step: 3369
+Global Step: 3370
+Epoch 3, Batch 299, Loss: 23.911, LR: 0.000099
+Global Step: 3371
+Global Step: 3372
+Global Step: 3373
+Global Step: 3374
+Global Step: 3375
+Global Step: 3376
+Global Step: 3377
+Global Step: 3378
+Global Step: 3379
+Global Step: 3380
+Epoch 3, Batch 309, Loss: 23.968, LR: 0.000099
+Global Step: 3381
+Global Step: 3382
+Global Step: 3383
+Global Step: 3384
+Global Step: 3385
+Global Step: 3386
+Global Step: 3387
+Global Step: 3388
+Global Step: 3389
+Global Step: 3390
+Epoch 3, Batch 319, Loss: 24.030, LR: 0.000099
+Global Step: 3391
+Global Step: 3392
+Global Step: 3393
+Global Step: 3394
+Global Step: 3395
+Global Step: 3396
+Global Step: 3397
+Global Step: 3398
+Global Step: 3399
+Global Step: 3400
+Epoch 3, Batch 329, Loss: 23.324, LR: 0.000099
+Epoch 3:  23%|██▎       | 356/1536 [03:53<03:26,  5.71it/s]  
+Step 3400 Eval Loss: 103.671
+Global Step: 3401
+Global Step: 3402
+Global Step: 3403
+Global Step: 3404
+Global Step: 3405
+Global Step: 3406
+Global Step: 3407
+Global Step: 3408
+Global Step: 3409
+Global Step: 3410
+Epoch 3, Batch 339, Loss: 23.352, LR: 0.000099
+Global Step: 3411
+Global Step: 3412
+Global Step: 3413
+Global Step: 3414
+Global Step: 3415
+Global Step: 3416
+Global Step: 3417
+Global Step: 3418
+Global Step: 3419
+Global Step: 3420
+Epoch 3, Batch 349, Loss: 23.572, LR: 0.000099
+Global Step: 3421
+Global Step: 3422
+Global Step: 3423
+Global Step: 3424
+Global Step: 3425
+Global Step: 3426
+Global Step: 3427
+Global Step: 3428
+Global Step: 3429
+Global Step: 3430
+Epoch 3, Batch 359, Loss: 24.576, LR: 0.000099
+Global Step: 3431
+Global Step: 3432
+Global Step: 3433
+Global Step: 3434
+Global Step: 3435
+Global Step: 3436
+Global Step: 3437
+Global Step: 3438
+Global Step: 3439
+Global Step: 3440
+Epoch 3, Batch 369, Loss: 24.788, LR: 0.000099
+Global Step: 3441
+Global Step: 3442
+Global Step: 3443
+Global Step: 3444
+Global Step: 3445
+Global Step: 3446
+Global Step: 3447
+Global Step: 3448
+Global Step: 3449
+Global Step: 3450
+Epoch 3, Batch 379, Loss: 23.867, LR: 0.000099
+Epoch 3:  26%|██▋       | 406/1536 [04:23<03:35,  5.25it/s]  
+Step 3450 Eval Loss: 103.715
+Global Step: 3451
+Global Step: 3452
+Global Step: 3453
+Global Step: 3454
+Global Step: 3455
+Global Step: 3456
+Global Step: 3457
+Global Step: 3458
+Global Step: 3459
+Global Step: 3460
+Epoch 3, Batch 389, Loss: 24.224, LR: 0.000099
+Global Step: 3461
+Global Step: 3462
+Global Step: 3463
+Global Step: 3464
+Global Step: 3465
+Global Step: 3466
+Global Step: 3467
+Global Step: 3468
+Global Step: 3469
+Global Step: 3470
+Epoch 3, Batch 399, Loss: 24.136, LR: 0.000099
+Global Step: 3471
+Global Step: 3472
+Global Step: 3473
+Global Step: 3474
+Global Step: 3475
+Global Step: 3476
+Global Step: 3477
+Global Step: 3478
+Global Step: 3479
+Global Step: 3480
+Epoch 3, Batch 409, Loss: 23.949, LR: 0.000099
+Global Step: 3481
+Global Step: 3482
+Global Step: 3483
+Global Step: 3484
+Global Step: 3485
+Global Step: 3486
+Global Step: 3487
+Global Step: 3488
+Global Step: 3489
+Global Step: 3490
+Epoch 3, Batch 419, Loss: 22.783, LR: 0.000099
+Global Step: 3491
+Global Step: 3492
+Global Step: 3493
+Global Step: 3494
+Global Step: 3495
+Global Step: 3496
+Global Step: 3497
+Global Step: 3498
+Global Step: 3499
+Global Step: 3500
+Epoch 3, Batch 429, Loss: 23.970, LR: 0.000099
+Epoch 3:  30%|██▉       | 456/1536 [04:54<03:12,  5.61it/s]  
+Step 3500 Eval Loss: 103.728
+Global Step: 3501
+Global Step: 3502
+Global Step: 3503
+Global Step: 3504
+Global Step: 3505
+Global Step: 3506
+Global Step: 3507
+Global Step: 3508
+Global Step: 3509
+Global Step: 3510
+Epoch 3, Batch 439, Loss: 23.510, LR: 0.000099
+Global Step: 3511
+Global Step: 3512
+Global Step: 3513
+Global Step: 3514
+Global Step: 3515
+Global Step: 3516
+Global Step: 3517
+Global Step: 3518
+Global Step: 3519
+Global Step: 3520
+Epoch 3, Batch 449, Loss: 25.151, LR: 0.000099
+Global Step: 3521
+Global Step: 3522
+Global Step: 3523
+Global Step: 3524
+Global Step: 3525
+Global Step: 3526
+Global Step: 3527
+Global Step: 3528
+Global Step: 3529
+Global Step: 3530
+Epoch 3, Batch 459, Loss: 23.324, LR: 0.000099
+Global Step: 3531
+Global Step: 3532
+Global Step: 3533
+Global Step: 3534
+Global Step: 3535
+Global Step: 3536
+Global Step: 3537
+Global Step: 3538
+Global Step: 3539
+Global Step: 3540
+Epoch 3, Batch 469, Loss: 24.283, LR: 0.000099
+Global Step: 3541
+Global Step: 3542
+Global Step: 3543
+Global Step: 3544
+Global Step: 3545
+Global Step: 3546
+Global Step: 3547
+Global Step: 3548
+Global Step: 3549
+Global Step: 3550
+Epoch 3, Batch 479, Loss: 23.180, LR: 0.000099
+Epoch 3:  33%|███▎      | 506/1536 [05:24<03:08,  5.45it/s]  
+Step 3550 Eval Loss: 103.578
+Global Step: 3551
+Global Step: 3552
+Global Step: 3553
+Global Step: 3554
+Global Step: 3555
+Global Step: 3556
+Global Step: 3557
+Global Step: 3558
+Global Step: 3559
+Global Step: 3560
+Epoch 3, Batch 489, Loss: 22.307, LR: 0.000099
+Global Step: 3561
+Global Step: 3562
+Global Step: 3563
+Global Step: 3564
+Global Step: 3565
+Global Step: 3566
+Global Step: 3567
+Global Step: 3568
+Global Step: 3569
+Global Step: 3570
+Epoch 3, Batch 499, Loss: 24.799, LR: 0.000099
+Global Step: 3571
+Global Step: 3572
+Global Step: 3573
+Global Step: 3574
+Global Step: 3575
+Global Step: 3576
+Global Step: 3577
+Global Step: 3578
+Global Step: 3579
+Global Step: 3580
+Epoch 3, Batch 509, Loss: 24.656, LR: 0.000099
+Global Step: 3581
+Global Step: 3582
+Global Step: 3583
+Global Step: 3584
+Global Step: 3585
+Global Step: 3586
+Global Step: 3587
+Global Step: 3588
+Global Step: 3589
+Global Step: 3590
+Epoch 3, Batch 519, Loss: 23.312, LR: 0.000099
+Global Step: 3591
+Global Step: 3592
+Global Step: 3593
+Global Step: 3594
+Global Step: 3595
+Global Step: 3596
+Global Step: 3597
+Global Step: 3598
+Global Step: 3599
+Global Step: 3600
+Epoch 3, Batch 529, Loss: 24.128, LR: 0.000099
+Epoch 3:  36%|███▌      | 556/1536 [05:54<03:08,  5.19it/s]  
+Step 3600 Eval Loss: 103.676
+Global Step: 3601
+Global Step: 3602
+Global Step: 3603
+Global Step: 3604
+Global Step: 3605
+Global Step: 3606
+Global Step: 3607
+Global Step: 3608
+Global Step: 3609
+Global Step: 3610
+Epoch 3, Batch 539, Loss: 23.658, LR: 0.000099
+Global Step: 3611
+Global Step: 3612
+Global Step: 3613
+Global Step: 3614
+Global Step: 3615
+Global Step: 3616
+Global Step: 3617
+Global Step: 3618
+Global Step: 3619
+Global Step: 3620
+Epoch 3, Batch 549, Loss: 23.929, LR: 0.000099
+Global Step: 3621
+Global Step: 3622
+Global Step: 3623
+Global Step: 3624
+Global Step: 3625
+Global Step: 3626
+Global Step: 3627
+Global Step: 3628
+Global Step: 3629
+Global Step: 3630
+Epoch 3, Batch 559, Loss: 23.204, LR: 0.000099
+Global Step: 3631
+Global Step: 3632
+Global Step: 3633
+Global Step: 3634
+Global Step: 3635
+Global Step: 3636
+Global Step: 3637
+Global Step: 3638
+Global Step: 3639
+Global Step: 3640
+Epoch 3, Batch 569, Loss: 24.044, LR: 0.000099
+Global Step: 3641
+Global Step: 3642
+Global Step: 3643
+Global Step: 3644
+Global Step: 3645
+Global Step: 3646
+Global Step: 3647
+Global Step: 3648
+Global Step: 3649
+Global Step: 3650
+Epoch 3, Batch 579, Loss: 22.449, LR: 0.000099
+Epoch 3:  39%|███▉      | 606/1536 [06:25<02:39,  5.82it/s]  
+Step 3650 Eval Loss: 103.728
+Global Step: 3651
+Global Step: 3652
+Global Step: 3653
+Global Step: 3654
+Global Step: 3655
+Global Step: 3656
+Global Step: 3657
+Global Step: 3658
+Global Step: 3659
+Global Step: 3660
+Epoch 3, Batch 589, Loss: 23.696, LR: 0.000099
+Global Step: 3661
+Global Step: 3662
+Global Step: 3663
+Global Step: 3664
+Global Step: 3665
+Global Step: 3666
+Global Step: 3667
+Global Step: 3668
+Global Step: 3669
+Global Step: 3670
+Epoch 3, Batch 599, Loss: 22.365, LR: 0.000099
+Global Step: 3671
+Global Step: 3672
+Global Step: 3673
+Global Step: 3674
+Global Step: 3675
+Global Step: 3676
+Global Step: 3677
+Global Step: 3678
+Global Step: 3679
+Global Step: 3680
+Epoch 3, Batch 609, Loss: 23.786, LR: 0.000099
+Global Step: 3681
+Global Step: 3682
+Global Step: 3683
+Global Step: 3684
+Global Step: 3685
+Global Step: 3686
+Global Step: 3687
+Global Step: 3688
+Global Step: 3689
+Global Step: 3690
+Epoch 3, Batch 619, Loss: 22.827, LR: 0.000099
+Global Step: 3691
+Global Step: 3692
+Global Step: 3693
+Global Step: 3694
+Global Step: 3695
+Global Step: 3696
+Global Step: 3697
+Global Step: 3698
+Global Step: 3699
+Global Step: 3700
+Epoch 3, Batch 629, Loss: 23.105, LR: 0.000099
+Epoch 3:  43%|████▎     | 655/1536 [06:55<02:38,  5.55it/s]  
+Step 3700 Eval Loss: 103.678
+Global Step: 3701
+Global Step: 3702
+Global Step: 3703
+Global Step: 3704
+Global Step: 3705
+Global Step: 3706
+Global Step: 3707
+Global Step: 3708
+Global Step: 3709
+Global Step: 3710
+Epoch 3, Batch 639, Loss: 23.858, LR: 0.000099
+Global Step: 3711
+Global Step: 3712
+Global Step: 3713
+Global Step: 3714
+Global Step: 3715
+Global Step: 3716
+Global Step: 3717
+Global Step: 3718
+Global Step: 3719
+Global Step: 3720
+Epoch 3, Batch 649, Loss: 24.856, LR: 0.000099
+Global Step: 3721
+Global Step: 3722
+Global Step: 3723
+Global Step: 3724
+Global Step: 3725
+Global Step: 3726
+Global Step: 3727
+Global Step: 3728
+Global Step: 3729
+Global Step: 3730
+Epoch 3, Batch 659, Loss: 24.349, LR: 0.000099
+Global Step: 3731
+Global Step: 3732
+Global Step: 3733
+Global Step: 3734
+Global Step: 3735
+Global Step: 3736
+Global Step: 3737
+Global Step: 3738
+Global Step: 3739
+Global Step: 3740
+Epoch 3, Batch 669, Loss: 23.689, LR: 0.000099
+Global Step: 3741
+Global Step: 3742
+Global Step: 3743
+Global Step: 3744
+Global Step: 3745
+Global Step: 3746
+Global Step: 3747
+Global Step: 3748
+Global Step: 3749
+Global Step: 3750
+Epoch 3, Batch 679, Loss: 23.899, LR: 0.000099
+Epoch 3:  46%|████▌     | 706/1536 [07:26<02:31,  5.46it/s]
+Step 3750 Eval Loss: 103.683
+Global Step: 3751
+Global Step: 3752
+Global Step: 3753
+Global Step: 3754
+Global Step: 3755
+Global Step: 3756
+Global Step: 3757
+Global Step: 3758
+Global Step: 3759
+Global Step: 3760
+Epoch 3, Batch 689, Loss: 24.456, LR: 0.000099
+Global Step: 3761
+Global Step: 3762
+Global Step: 3763
+Global Step: 3764
+Global Step: 3765
+Global Step: 3766
+Global Step: 3767
+Global Step: 3768
+Global Step: 3769
+Global Step: 3770
+Epoch 3, Batch 699, Loss: 24.062, LR: 0.000099
+Global Step: 3771
+Global Step: 3772
+Global Step: 3773
+Global Step: 3774
+Global Step: 3775
+Global Step: 3776
+Global Step: 3777
+Global Step: 3778
+Global Step: 3779
+Global Step: 3780
+Epoch 3, Batch 709, Loss: 22.963, LR: 0.000099
+Global Step: 3781
+Global Step: 3782
+Global Step: 3783
+Global Step: 3784
+Global Step: 3785
+Global Step: 3786
+Global Step: 3787
+Global Step: 3788
+Global Step: 3789
+Global Step: 3790
+Epoch 3, Batch 719, Loss: 23.867, LR: 0.000099
+Global Step: 3791
+Global Step: 3792
+Global Step: 3793
+Global Step: 3794
+Global Step: 3795
+Global Step: 3796
+Global Step: 3797
+Global Step: 3798
+Global Step: 3799
+Global Step: 3800
+Epoch 3, Batch 729, Loss: 22.300, LR: 0.000099
+Epoch 3:  49%|████▉     | 755/1536 [07:56<02:17,  5.66it/s]  
+Step 3800 Eval Loss: 103.640
+Global Step: 3801
+Global Step: 3802
+Global Step: 3803
+Global Step: 3804
+Global Step: 3805
+Global Step: 3806
+Global Step: 3807
+Global Step: 3808
+Global Step: 3809
+Global Step: 3810
+Epoch 3, Batch 739, Loss: 24.225, LR: 0.000099
+Global Step: 3811
+Global Step: 3812
+Global Step: 3813
+Global Step: 3814
+Global Step: 3815
+Global Step: 3816
+Global Step: 3817
+Global Step: 3818
+Global Step: 3819
+Global Step: 3820
+Epoch 3, Batch 749, Loss: 23.019, LR: 0.000099
+Global Step: 3821
+Global Step: 3822
+Global Step: 3823
+Global Step: 3824
+Global Step: 3825
+Global Step: 3826
+Global Step: 3827
+Global Step: 3828
+Global Step: 3829
+Global Step: 3830
+Epoch 3, Batch 759, Loss: 23.091, LR: 0.000099
+Global Step: 3831
+Global Step: 3832
+Global Step: 3833
+Global Step: 3834
+Global Step: 3835
+Global Step: 3836
+Global Step: 3837
+Global Step: 3838
+Global Step: 3839
+Global Step: 3840
+Epoch 3, Batch 769, Loss: 24.482, LR: 0.000099
+Global Step: 3841
+Global Step: 3842
+Global Step: 3843
+Global Step: 3844
+Global Step: 3845
+Global Step: 3846
+Global Step: 3847
+Global Step: 3848
+Global Step: 3849
+Global Step: 3850
+Epoch 3, Batch 779, Loss: 24.523, LR: 0.000099
+Epoch 3:  52%|█████▏    | 806/1536 [08:27<02:07,  5.72it/s]  
+Step 3850 Eval Loss: 103.676
+Global Step: 3851
+Global Step: 3852
+Global Step: 3853
+Global Step: 3854
+Global Step: 3855
+Global Step: 3856
+Global Step: 3857
+Global Step: 3858
+Global Step: 3859
+Global Step: 3860
+Epoch 3, Batch 789, Loss: 24.185, LR: 0.000099
+Global Step: 3861
+Global Step: 3862
+Global Step: 3863
+Global Step: 3864
+Global Step: 3865
+Global Step: 3866
+Global Step: 3867
+Global Step: 3868
+Global Step: 3869
+Global Step: 3870
+Epoch 3, Batch 799, Loss: 24.383, LR: 0.000099
+Global Step: 3871
+Global Step: 3872
+Global Step: 3873
+Global Step: 3874
+Global Step: 3875
+Global Step: 3876
+Global Step: 3877
+Global Step: 3878
+Global Step: 3879
+Global Step: 3880
+Epoch 3, Batch 809, Loss: 22.225, LR: 0.000099
+Global Step: 3881
+Global Step: 3882
+Global Step: 3883
+Global Step: 3884
+Global Step: 3885
+Global Step: 3886
+Global Step: 3887
+Global Step: 3888
+Global Step: 3889
+Global Step: 3890
+Epoch 3, Batch 819, Loss: 24.072, LR: 0.000099
+Global Step: 3891
+Global Step: 3892
+Global Step: 3893
+Global Step: 3894
+Global Step: 3895
+Global Step: 3896
+Global Step: 3897
+Global Step: 3898
+Global Step: 3899
+Global Step: 3900
+Epoch 3, Batch 829, Loss: 23.895, LR: 0.000099
+Epoch 3:  56%|█████▌    | 856/1536 [08:57<02:00,  5.63it/s]  
+Step 3900 Eval Loss: 103.649
+Global Step: 3901
+Global Step: 3902
+Global Step: 3903
+Global Step: 3904
+Global Step: 3905
+Global Step: 3906
+Global Step: 3907
+Global Step: 3908
+Global Step: 3909
+Global Step: 3910
+Epoch 3, Batch 839, Loss: 24.920, LR: 0.000099
+Global Step: 3911
+Global Step: 3912
+Global Step: 3913
+Global Step: 3914
+Global Step: 3915
+Global Step: 3916
+Global Step: 3917
+Global Step: 3918
+Global Step: 3919
+Global Step: 3920
+Epoch 3, Batch 849, Loss: 23.891, LR: 0.000099
+Global Step: 3921
+Global Step: 3922
+Global Step: 3923
+Global Step: 3924
+Global Step: 3925
+Global Step: 3926
+Global Step: 3927
+Global Step: 3928
+Global Step: 3929
+Global Step: 3930
+Epoch 3, Batch 859, Loss: 22.426, LR: 0.000099
+Global Step: 3931
+Global Step: 3932
+Global Step: 3933
+Global Step: 3934
+Global Step: 3935
+Global Step: 3936
+Global Step: 3937
+Global Step: 3938
+Global Step: 3939
+Global Step: 3940
+Epoch 3, Batch 869, Loss: 23.126, LR: 0.000099
+Global Step: 3941
+Global Step: 3942
+Global Step: 3943
+Global Step: 3944
+Global Step: 3945
+Global Step: 3946
+Global Step: 3947
+Global Step: 3948
+Global Step: 3949
+Global Step: 3950
+Epoch 3, Batch 879, Loss: 22.428, LR: 0.000099
+Epoch 3:  59%|█████▉    | 906/1536 [09:27<01:39,  6.33it/s]  
+Step 3950 Eval Loss: 103.606
+Global Step: 3951
+Global Step: 3952
+Global Step: 3953
+Global Step: 3954
+Global Step: 3955
+Global Step: 3956
+Global Step: 3957
+Global Step: 3958
+Global Step: 3959
+Global Step: 3960
+Epoch 3, Batch 889, Loss: 24.238, LR: 0.000099
+Global Step: 3961
+Global Step: 3962
+Global Step: 3963
+Global Step: 3964
+Global Step: 3965
+Global Step: 3966
+Global Step: 3967
+Global Step: 3968
+Global Step: 3969
+Global Step: 3970
+Epoch 3, Batch 899, Loss: 22.401, LR: 0.000099
+Global Step: 3971
+Global Step: 3972
+Global Step: 3973
+Global Step: 3974
+Global Step: 3975
+Global Step: 3976
+Global Step: 3977
+Global Step: 3978
+Global Step: 3979
+Global Step: 3980
+Epoch 3, Batch 909, Loss: 24.062, LR: 0.000099
+Global Step: 3981
+Global Step: 3982
+Global Step: 3983
+Global Step: 3984
+Global Step: 3985
+Global Step: 3986
+Global Step: 3987
+Global Step: 3988
+Global Step: 3989
+Global Step: 3990
+Epoch 3, Batch 919, Loss: 24.343, LR: 0.000099
+Global Step: 3991
+Global Step: 3992
+Global Step: 3993
+Global Step: 3994
+Global Step: 3995
+Global Step: 3996
+Global Step: 3997
+Global Step: 3998
+Global Step: 3999
+Global Step: 4000
+Epoch 3, Batch 929, Loss: 22.896, LR: 0.000099
+Epoch 3:  62%|██████▏   | 956/1536 [09:58<01:44,  5.57it/s]  
+Step 4000 Eval Loss: 103.587
+Global Step: 4001
+Global Step: 4002
+Global Step: 4003
+Global Step: 4004
+Global Step: 4005
+Global Step: 4006
+Global Step: 4007
+Global Step: 4008
+Global Step: 4009
+Global Step: 4010
+Epoch 3, Batch 939, Loss: 23.750, LR: 0.000099
+Global Step: 4011
+Global Step: 4012
+Global Step: 4013
+Global Step: 4014
+Global Step: 4015
+Global Step: 4016
+Global Step: 4017
+Global Step: 4018
+Global Step: 4019
+Global Step: 4020
+Epoch 3, Batch 949, Loss: 23.417, LR: 0.000099
+Global Step: 4021
+Global Step: 4022
+Global Step: 4023
+Global Step: 4024
+Global Step: 4025
+Global Step: 4026
+Global Step: 4027
+Global Step: 4028
+Global Step: 4029
+Global Step: 4030
+Epoch 3, Batch 959, Loss: 23.057, LR: 0.000099
+Global Step: 4031
+Global Step: 4032
+Global Step: 4033
+Global Step: 4034
+Global Step: 4035
+Global Step: 4036
+Global Step: 4037
+Global Step: 4038
+Global Step: 4039
+Global Step: 4040
+Epoch 3, Batch 969, Loss: 23.627, LR: 0.000099
+Global Step: 4041
+Global Step: 4042
+Global Step: 4043
+Global Step: 4044
+Global Step: 4045
+Global Step: 4046
+Global Step: 4047
+Global Step: 4048
+Global Step: 4049
+Global Step: 4050
+Epoch 3, Batch 979, Loss: 24.222, LR: 0.000099
+Epoch 3:  65%|██████▌   | 1006/1536 [10:28<01:30,  5.83it/s]
+Step 4050 Eval Loss: 103.681
+Global Step: 4051
+Global Step: 4052
+Global Step: 4053
+Global Step: 4054
+Global Step: 4055
+Global Step: 4056
+Global Step: 4057
+Global Step: 4058
+Global Step: 4059
+Global Step: 4060
+Epoch 3, Batch 989, Loss: 23.489, LR: 0.000099
+Global Step: 4061
+Global Step: 4062
+Global Step: 4063
+Global Step: 4064
+Global Step: 4065
+Global Step: 4066
+Global Step: 4067
+Global Step: 4068
+Global Step: 4069
+Global Step: 4070
+Epoch 3, Batch 999, Loss: 23.380, LR: 0.000099
+Global Step: 4071
+Global Step: 4072
+Global Step: 4073
+Global Step: 4074
+Global Step: 4075
+Global Step: 4076
+Global Step: 4077
+Global Step: 4078
+Global Step: 4079
+Global Step: 4080
+Epoch 3, Batch 1009, Loss: 23.431, LR: 0.000099
+Global Step: 4081
+Global Step: 4082
+Global Step: 4083
+Global Step: 4084
+Global Step: 4085
+Global Step: 4086
+Global Step: 4087
+Global Step: 4088
+Global Step: 4089
+Global Step: 4090
+Epoch 3, Batch 1019, Loss: 23.609, LR: 0.000099
+Global Step: 4091
+Global Step: 4092
+Global Step: 4093
+Global Step: 4094
+Global Step: 4095
+Global Step: 4096
+Global Step: 4097
+Global Step: 4098
+Global Step: 4099
+Global Step: 4100
+Epoch 3, Batch 1029, Loss: 22.727, LR: 0.000099
+Epoch 3:  69%|██████▉   | 1056/1536 [10:58<01:33,  5.16it/s]
+Step 4100 Eval Loss: 103.695
+Global Step: 4101
+Global Step: 4102
+Global Step: 4103
+Global Step: 4104
+Global Step: 4105
+Global Step: 4106
+Global Step: 4107
+Global Step: 4108
+Global Step: 4109
+Global Step: 4110
+Epoch 3, Batch 1039, Loss: 23.017, LR: 0.000099
+Global Step: 4111
+Global Step: 4112
+Global Step: 4113
+Global Step: 4114
+Global Step: 4115
+Global Step: 4116
+Global Step: 4117
+Global Step: 4118
+Global Step: 4119
+Global Step: 4120
+Epoch 3, Batch 1049, Loss: 24.689, LR: 0.000099
+Global Step: 4121
+Global Step: 4122
+Global Step: 4123
+Global Step: 4124
+Global Step: 4125
+Global Step: 4126
+Global Step: 4127
+Global Step: 4128
+Global Step: 4129
+Global Step: 4130
+Epoch 3, Batch 1059, Loss: 23.058, LR: 0.000099
+Global Step: 4131
+Global Step: 4132
+Global Step: 4133
+Global Step: 4134
+Global Step: 4135
+Global Step: 4136
+Global Step: 4137
+Global Step: 4138
+Global Step: 4139
+Global Step: 4140
+Epoch 3, Batch 1069, Loss: 23.317, LR: 0.000099
+Global Step: 4141
+Global Step: 4142
+Global Step: 4143
+Global Step: 4144
+Global Step: 4145
+Global Step: 4146
+Global Step: 4147
+Global Step: 4148
+Global Step: 4149
+Global Step: 4150
+Epoch 3, Batch 1079, Loss: 24.048, LR: 0.000099
+Epoch 3:  72%|███████▏  | 1106/1536 [11:29<01:13,  5.88it/s]
+Step 4150 Eval Loss: 103.718
+Global Step: 4151
+Global Step: 4152
+Global Step: 4153
+Global Step: 4154
+Global Step: 4155
+Global Step: 4156
+Global Step: 4157
+Global Step: 4158
+Global Step: 4159
+Global Step: 4160
+Epoch 3, Batch 1089, Loss: 23.842, LR: 0.000099
+Global Step: 4161
+Global Step: 4162
+Global Step: 4163
+Global Step: 4164
+Global Step: 4165
+Global Step: 4166
+Global Step: 4167
+Global Step: 4168
+Global Step: 4169
+Global Step: 4170
+Epoch 3, Batch 1099, Loss: 23.860, LR: 0.000099
+Global Step: 4171
+Global Step: 4172
+Global Step: 4173
+Global Step: 4174
+Global Step: 4175
+Global Step: 4176
+Global Step: 4177
+Global Step: 4178
+Global Step: 4179
+Global Step: 4180
+Epoch 3, Batch 1109, Loss: 23.548, LR: 0.000099
+Global Step: 4181
+Global Step: 4182
+Global Step: 4183
+Global Step: 4184
+Global Step: 4185
+Global Step: 4186
+Global Step: 4187
+Global Step: 4188
+Global Step: 4189
+Global Step: 4190
+Epoch 3, Batch 1119, Loss: 23.812, LR: 0.000099
+Global Step: 4191
+Global Step: 4192
+Global Step: 4193
+Global Step: 4194
+Global Step: 4195
+Global Step: 4196
+Global Step: 4197
+Global Step: 4198
+Global Step: 4199
+Global Step: 4200
+Epoch 3, Batch 1129, Loss: 24.228, LR: 0.000099
+Epoch 3:  75%|███████▌  | 1156/1536 [11:59<01:13,  5.14it/s]
+Step 4200 Eval Loss: 103.656
+Global Step: 4201
+Global Step: 4202
+Global Step: 4203
+Global Step: 4204
+Global Step: 4205
+Global Step: 4206
+Global Step: 4207
+Global Step: 4208
+Global Step: 4209
+Global Step: 4210
+Epoch 3, Batch 1139, Loss: 24.299, LR: 0.000099
+Global Step: 4211
+Global Step: 4212
+Global Step: 4213
+Global Step: 4214
+Global Step: 4215
+Global Step: 4216
+Global Step: 4217
+Global Step: 4218
+Global Step: 4219
+Global Step: 4220
+Epoch 3, Batch 1149, Loss: 23.547, LR: 0.000099
+Global Step: 4221
+Global Step: 4222
+Global Step: 4223
+Global Step: 4224
+Global Step: 4225
+Global Step: 4226
+Global Step: 4227
+Global Step: 4228
+Global Step: 4229
+Global Step: 4230
+Epoch 3, Batch 1159, Loss: 24.182, LR: 0.000099
+Global Step: 4231
+Global Step: 4232
+Global Step: 4233
+Global Step: 4234
+Global Step: 4235
+Global Step: 4236
+Global Step: 4237
+Global Step: 4238
+Global Step: 4239
+Global Step: 4240
+Epoch 3, Batch 1169, Loss: 23.950, LR: 0.000099
+Global Step: 4241
+Global Step: 4242
+Global Step: 4243
+Global Step: 4244
+Global Step: 4245
+Global Step: 4246
+Global Step: 4247
+Global Step: 4248
+Global Step: 4249
+Global Step: 4250
+Epoch 3, Batch 1179, Loss: 22.189, LR: 0.000099
+Epoch 3:  79%|███████▊  | 1206/1536 [12:30<01:09,  4.73it/s]
+Step 4250 Eval Loss: 103.781
+Global Step: 4251
+Global Step: 4252
+Global Step: 4253
+Global Step: 4254
+Global Step: 4255
+Global Step: 4256
+Global Step: 4257
+Global Step: 4258
+Global Step: 4259
+Global Step: 4260
+Epoch 3, Batch 1189, Loss: 24.572, LR: 0.000099
+Global Step: 4261
+Global Step: 4262
+Global Step: 4263
+Global Step: 4264
+Global Step: 4265
+Global Step: 4266
+Global Step: 4267
+Global Step: 4268
+Global Step: 4269
+Global Step: 4270
+Epoch 3, Batch 1199, Loss: 23.889, LR: 0.000099
+Global Step: 4271
+Global Step: 4272
+Global Step: 4273
+Global Step: 4274
+Global Step: 4275
+Global Step: 4276
+Global Step: 4277
+Global Step: 4278
+Global Step: 4279
+Global Step: 4280
+Epoch 3, Batch 1209, Loss: 23.776, LR: 0.000099
+Global Step: 4281
+Global Step: 4282
+Global Step: 4283
+Global Step: 4284
+Global Step: 4285
+Global Step: 4286
+Global Step: 4287
+Global Step: 4288
+Global Step: 4289
+Global Step: 4290
+Epoch 3, Batch 1219, Loss: 23.728, LR: 0.000099
+Global Step: 4291
+Global Step: 4292
+Global Step: 4293
+Global Step: 4294
+Global Step: 4295
+Global Step: 4296
+Global Step: 4297
+Global Step: 4298
+Global Step: 4299
+Global Step: 4300
+Epoch 3, Batch 1229, Loss: 23.887, LR: 0.000099
+Epoch 3:  82%|████████▏ | 1256/1536 [13:00<00:46,  6.05it/s]
+Step 4300 Eval Loss: 103.632
+Global Step: 4301
+Global Step: 4302
+Global Step: 4303
+Global Step: 4304
+Global Step: 4305
+Global Step: 4306
+Global Step: 4307
+Global Step: 4308
+Global Step: 4309
+Global Step: 4310
+Epoch 3, Batch 1239, Loss: 23.711, LR: 0.000099
+Global Step: 4311
+Global Step: 4312
+Global Step: 4313
+Global Step: 4314
+Global Step: 4315
+Global Step: 4316
+Global Step: 4317
+Global Step: 4318
+Global Step: 4319
+Global Step: 4320
+Epoch 3, Batch 1249, Loss: 23.869, LR: 0.000099
+Global Step: 4321
+Global Step: 4322
+Global Step: 4323
+Global Step: 4324
+Global Step: 4325
+Global Step: 4326
+Global Step: 4327
+Global Step: 4328
+Global Step: 4329
+Global Step: 4330
+Epoch 3, Batch 1259, Loss: 23.949, LR: 0.000099
+Global Step: 4331
+Global Step: 4332
+Global Step: 4333
+Global Step: 4334
+Global Step: 4335
+Global Step: 4336
+Global Step: 4337
+Global Step: 4338
+Global Step: 4339
+Global Step: 4340
+Epoch 3, Batch 1269, Loss: 24.078, LR: 0.000099
+Global Step: 4341
+Global Step: 4342
+Global Step: 4343
+Global Step: 4344
+Global Step: 4345
+Global Step: 4346
+Global Step: 4347
+Global Step: 4348
+Global Step: 4349
+Global Step: 4350
+Epoch 3, Batch 1279, Loss: 24.088, LR: 0.000099
+Epoch 3:  85%|████████▌ | 1306/1536 [13:31<00:41,  5.60it/s]
+Step 4350 Eval Loss: 103.830
+Global Step: 4351
+Global Step: 4352
+Global Step: 4353
+Global Step: 4354
+Global Step: 4355
+Global Step: 4356
+Global Step: 4357
+Global Step: 4358
+Global Step: 4359
+Global Step: 4360
+Epoch 3, Batch 1289, Loss: 23.846, LR: 0.000099
+Global Step: 4361
+Global Step: 4362
+Global Step: 4363
+Global Step: 4364
+Global Step: 4365
+Global Step: 4366
+Global Step: 4367
+Global Step: 4368
+Global Step: 4369
+Global Step: 4370
+Epoch 3, Batch 1299, Loss: 24.099, LR: 0.000099
+Global Step: 4371
+Global Step: 4372
+Global Step: 4373
+Global Step: 4374
+Global Step: 4375
+Global Step: 4376
+Global Step: 4377
+Global Step: 4378
+Global Step: 4379
+Global Step: 4380
+Epoch 3, Batch 1309, Loss: 20.844, LR: 0.000099
+Global Step: 4381
+Global Step: 4382
+Global Step: 4383
+Global Step: 4384
+Global Step: 4385
+Global Step: 4386
+Global Step: 4387
+Global Step: 4388
+Global Step: 4389
+Global Step: 4390
+Epoch 3, Batch 1319, Loss: 23.590, LR: 0.000099
+Global Step: 4391
+Global Step: 4392
+Global Step: 4393
+Global Step: 4394
+Global Step: 4395
+Global Step: 4396
+Global Step: 4397
+Global Step: 4398
+Global Step: 4399
+Global Step: 4400
+Epoch 3, Batch 1329, Loss: 23.925, LR: 0.000099
+Epoch 3:  88%|████████▊ | 1356/1536 [14:01<00:33,  5.42it/s]
+Step 4400 Eval Loss: 103.650
+Global Step: 4401
+Global Step: 4402
+Global Step: 4403
+Global Step: 4404
+Global Step: 4405
+Global Step: 4406
+Global Step: 4407
+Global Step: 4408
+Global Step: 4409
+Global Step: 4410
+Epoch 3, Batch 1339, Loss: 24.445, LR: 0.000099
+Global Step: 4411
+Global Step: 4412
+Global Step: 4413
+Global Step: 4414
+Global Step: 4415
+Global Step: 4416
+Global Step: 4417
+Global Step: 4418
+Global Step: 4419
+Global Step: 4420
+Epoch 3, Batch 1349, Loss: 23.915, LR: 0.000099
+Global Step: 4421
+Global Step: 4422
+Global Step: 4423
+Global Step: 4424
+Global Step: 4425
+Global Step: 4426
+Global Step: 4427
+Global Step: 4428
+Global Step: 4429
+Global Step: 4430
+Epoch 3, Batch 1359, Loss: 23.986, LR: 0.000099
+Global Step: 4431
+Global Step: 4432
+Global Step: 4433
+Global Step: 4434
+Global Step: 4435
+Global Step: 4436
+Global Step: 4437
+Global Step: 4438
+Global Step: 4439
+Global Step: 4440
+Epoch 3, Batch 1369, Loss: 24.063, LR: 0.000099
+Global Step: 4441
+Global Step: 4442
+Global Step: 4443
+Global Step: 4444
+Global Step: 4445
+Global Step: 4446
+Global Step: 4447
+Global Step: 4448
+Global Step: 4449
+Global Step: 4450
+Epoch 3, Batch 1379, Loss: 24.162, LR: 0.000099
+Epoch 3:  92%|█████████▏| 1406/1536 [14:32<00:23,  5.61it/s]
+Step 4450 Eval Loss: 103.656
+Global Step: 4451
+Global Step: 4452
+Global Step: 4453
+Global Step: 4454
+Global Step: 4455
+Global Step: 4456
+Global Step: 4457
+Global Step: 4458
+Global Step: 4459
+Global Step: 4460
+Epoch 3, Batch 1389, Loss: 23.342, LR: 0.000099
+Global Step: 4461
+Global Step: 4462
+Global Step: 4463
+Global Step: 4464
+Global Step: 4465
+Global Step: 4466
+Global Step: 4467
+Global Step: 4468
+Global Step: 4469
+Global Step: 4470
+Epoch 3, Batch 1399, Loss: 24.017, LR: 0.000099
+Global Step: 4471
+Global Step: 4472
+Global Step: 4473
+Global Step: 4474
+Global Step: 4475
+Global Step: 4476
+Global Step: 4477
+Global Step: 4478
+Global Step: 4479
+Global Step: 4480
+Epoch 3, Batch 1409, Loss: 24.558, LR: 0.000099
+Global Step: 4481
+Global Step: 4482
+Global Step: 4483
+Global Step: 4484
+Global Step: 4485
+Global Step: 4486
+Global Step: 4487
+Global Step: 4488
+Global Step: 4489
+Global Step: 4490
+Epoch 3, Batch 1419, Loss: 23.872, LR: 0.000099
+Global Step: 4491
+Global Step: 4492
+Global Step: 4493
+Global Step: 4494
+Global Step: 4495
+Global Step: 4496
+Global Step: 4497
+Global Step: 4498
+Global Step: 4499
+Global Step: 4500
+Epoch 3, Batch 1429, Loss: 23.491, LR: 0.000099
+Epoch 3:  95%|█████████▍| 1456/1536 [15:02<00:13,  6.09it/s]
+Step 4500 Eval Loss: 103.609
+Global Step: 4501
+Global Step: 4502
+Global Step: 4503
+Global Step: 4504
+Global Step: 4505
+Global Step: 4506
+Global Step: 4507
+Global Step: 4508
+Global Step: 4509
+Global Step: 4510
+Epoch 3, Batch 1439, Loss: 24.006, LR: 0.000099
+Global Step: 4511
+Global Step: 4512
+Global Step: 4513
+Global Step: 4514
+Global Step: 4515
+Global Step: 4516
+Global Step: 4517
+Global Step: 4518
+Global Step: 4519
+Global Step: 4520
+Epoch 3, Batch 1449, Loss: 24.755, LR: 0.000099
+Global Step: 4521
+Global Step: 4522
+Global Step: 4523
+Global Step: 4524
+Global Step: 4525
+Global Step: 4526
+Global Step: 4527
+Global Step: 4528
+Global Step: 4529
+Global Step: 4530
+Epoch 3, Batch 1459, Loss: 23.511, LR: 0.000099
+Global Step: 4531
+Global Step: 4532
+Global Step: 4533
+Global Step: 4534
+Global Step: 4535
+Global Step: 4536
+Global Step: 4537
+Global Step: 4538
+Global Step: 4539
+Global Step: 4540
+Epoch 3, Batch 1469, Loss: 23.134, LR: 0.000099
+Global Step: 4541
+Global Step: 4542
+Global Step: 4543
+Global Step: 4544
+Global Step: 4545
+Global Step: 4546
+Global Step: 4547
+Global Step: 4548
+Global Step: 4549
+Global Step: 4550
+Epoch 3, Batch 1479, Loss: 23.479, LR: 0.000099
+Epoch 3:  98%|█████████▊| 1506/1536 [15:33<00:05,  5.50it/s]
+Step 4550 Eval Loss: 103.670
+Global Step: 4551
+Global Step: 4552
+Global Step: 4553
+Global Step: 4554
+Global Step: 4555
+Global Step: 4556
+Global Step: 4557
+Global Step: 4558
+Global Step: 4559
+Global Step: 4560
+Epoch 3, Batch 1489, Loss: 23.922, LR: 0.000099
+Global Step: 4561
+Global Step: 4562
+Global Step: 4563
+Global Step: 4564
+Global Step: 4565
+Global Step: 4566
+Global Step: 4567
+Global Step: 4568
+Global Step: 4569
+Global Step: 4570
+Epoch 3, Batch 1499, Loss: 24.303, LR: 0.000099
+Global Step: 4571
+Global Step: 4572
+Global Step: 4573
+Global Step: 4574
+Global Step: 4575
+Global Step: 4576
+Global Step: 4577
+Global Step: 4578
+Global Step: 4579
+Global Step: 4580
+Epoch 3, Batch 1509, Loss: 23.907, LR: 0.000099
+Global Step: 4581
+Global Step: 4582
+Global Step: 4583
+Global Step: 4584
+Global Step: 4585
+Global Step: 4586
+Global Step: 4587
+Global Step: 4588
+Global Step: 4589
+Global Step: 4590
+Epoch 3, Batch 1519, Loss: 23.033, LR: 0.000099
+Global Step: 4591
+Global Step: 4592
+Global Step: 4593
+Global Step: 4594
+Global Step: 4595
+Global Step: 4596
+Global Step: 4597
+Global Step: 4598
+Global Step: 4599
+Global Step: 4600
+Epoch 3, Batch 1529, Loss: 24.386, LR: 0.000099
+Epoch 3: 100%|██████████| 1536/1536 [16:00<00:00,  1.60it/s]
+Step 4600 Eval Loss: 103.662
+Global Step: 4601
+Global Step: 4602
+Global Step: 4603
+Global Step: 4604
+Global Step: 4605
+Global Step: 4606
+Global Step: 4607
+Global Step: 4608
+Epoch 3 Average Loss: 94.345
+Epoch 4/1000
+Epoch 4:   2%|▏         | 27/1536 [00:24<04:46,  5.26it/s] 
+Global Step: 4609
+Global Step: 4610
+Epoch 4, Batch 3, Loss: 24.337, LR: 0.000099
+Global Step: 4611
+Global Step: 4612
+Global Step: 4613
+Global Step: 4614
+Global Step: 4615
+Global Step: 4616
+Global Step: 4617
+Global Step: 4618
+Global Step: 4619
+Global Step: 4620
+Epoch 4, Batch 13, Loss: 22.997, LR: 0.000099
+Global Step: 4621
+Global Step: 4622
+Global Step: 4623
+Global Step: 4624
+Global Step: 4625
+Global Step: 4626
+Global Step: 4627
+Global Step: 4628
+Global Step: 4629
+Global Step: 4630
+Epoch 4, Batch 23, Loss: 23.963, LR: 0.000099
+Global Step: 4631
+Global Step: 4632
+Global Step: 4633
+Global Step: 4634
+Global Step: 4635
+Global Step: 4636
+Global Step: 4637
+Global Step: 4638
+Global Step: 4639
+Global Step: 4640
+Epoch 4, Batch 33, Loss: 24.037, LR: 0.000099
+Global Step: 4641
+Global Step: 4642
+Global Step: 4643
+Global Step: 4644
+Global Step: 4645
+Global Step: 4646
+Global Step: 4647
+Global Step: 4648
+Global Step: 4649
+Global Step: 4650
+Epoch 4, Batch 43, Loss: 24.831, LR: 0.000099
+Epoch 4:   5%|▍         | 70/1536 [00:53<04:23,  5.56it/s]  
+Step 4650 Eval Loss: 103.663
+Global Step: 4651
+Global Step: 4652
+Global Step: 4653
+Global Step: 4654
+Global Step: 4655
+Global Step: 4656
+Global Step: 4657
+Global Step: 4658
+Global Step: 4659
+Global Step: 4660
+Epoch 4, Batch 53, Loss: 22.789, LR: 0.000099
+Global Step: 4661
+Global Step: 4662
+Global Step: 4663
+Global Step: 4664
+Global Step: 4665
+Global Step: 4666
+Global Step: 4667
+Global Step: 4668
+Global Step: 4669
+Global Step: 4670
+Epoch 4, Batch 63, Loss: 24.029, LR: 0.000099
+Global Step: 4671
+Global Step: 4672
+Global Step: 4673
+Global Step: 4674
+Global Step: 4675
+Global Step: 4676
+Global Step: 4677
+Global Step: 4678
+Global Step: 4679
+Global Step: 4680
+Epoch 4, Batch 73, Loss: 24.293, LR: 0.000099
+Global Step: 4681
+Global Step: 4682
+Global Step: 4683
+Global Step: 4684
+Global Step: 4685
+Global Step: 4686
+Global Step: 4687
+Global Step: 4688
+Global Step: 4689
+Global Step: 4690
+Epoch 4, Batch 83, Loss: 23.676, LR: 0.000099
+Global Step: 4691
+Global Step: 4692
+Global Step: 4693
+Global Step: 4694
+Global Step: 4695
+Global Step: 4696
+Global Step: 4697
+Global Step: 4698
+Global Step: 4699
+Global Step: 4700
+Epoch 4, Batch 93, Loss: 24.362, LR: 0.000099
+Epoch 4:   8%|▊         | 119/1536 [01:23<04:15,  5.56it/s] 
+Step 4700 Eval Loss: 103.691
+Global Step: 4701
+Global Step: 4702
+Global Step: 4703
+Global Step: 4704
+Global Step: 4705
+Global Step: 4706
+Global Step: 4707
+Global Step: 4708
+Global Step: 4709
+Global Step: 4710
+Epoch 4, Batch 103, Loss: 24.154, LR: 0.000099
+Global Step: 4711
+Global Step: 4712
+Global Step: 4713
+Global Step: 4714
+Global Step: 4715
+Global Step: 4716
+Global Step: 4717
+Global Step: 4718
+Global Step: 4719
+Global Step: 4720
+Epoch 4, Batch 113, Loss: 24.164, LR: 0.000098
+Global Step: 4721
+Global Step: 4722
+Global Step: 4723
+Global Step: 4724
+Global Step: 4725
+Global Step: 4726
+Global Step: 4727
+Global Step: 4728
+Global Step: 4729
+Global Step: 4730
+Epoch 4, Batch 123, Loss: 23.617, LR: 0.000098
+Global Step: 4731
+Global Step: 4732
+Global Step: 4733
+Global Step: 4734
+Global Step: 4735
+Global Step: 4736
+Global Step: 4737
+Global Step: 4738
+Global Step: 4739
+Global Step: 4740
+Epoch 4, Batch 133, Loss: 24.595, LR: 0.000098
+Global Step: 4741
+Global Step: 4742
+Global Step: 4743
+Global Step: 4744
+Global Step: 4745
+Global Step: 4746
+Global Step: 4747
+Global Step: 4748
+Global Step: 4749
+Global Step: 4750
+Epoch 4, Batch 143, Loss: 24.858, LR: 0.000098
+Epoch 4:  11%|█         | 170/1536 [01:54<03:54,  5.82it/s]  
+Step 4750 Eval Loss: 103.754
+Global Step: 4751
+Global Step: 4752
+Global Step: 4753
+Global Step: 4754
+Global Step: 4755
+Global Step: 4756
+Global Step: 4757
+Global Step: 4758
+Global Step: 4759
+Global Step: 4760
+Epoch 4, Batch 153, Loss: 23.592, LR: 0.000098
+Global Step: 4761
+Global Step: 4762
+Global Step: 4763
+Global Step: 4764
+Global Step: 4765
+Global Step: 4766
+Global Step: 4767
+Global Step: 4768
+Global Step: 4769
+Global Step: 4770
+Epoch 4, Batch 163, Loss: 24.881, LR: 0.000098
+Global Step: 4771
+Global Step: 4772
+Global Step: 4773
+Global Step: 4774
+Global Step: 4775
+Global Step: 4776
+Global Step: 4777
+Global Step: 4778
+Global Step: 4779
+Global Step: 4780
+Epoch 4, Batch 173, Loss: 24.714, LR: 0.000098
+Global Step: 4781
+Global Step: 4782
+Global Step: 4783
+Global Step: 4784
+Global Step: 4785
+Global Step: 4786
+Global Step: 4787
+Global Step: 4788
+Global Step: 4789
+Global Step: 4790
+Epoch 4, Batch 183, Loss: 23.641, LR: 0.000098
+Global Step: 4791
+Global Step: 4792
+Global Step: 4793
+Global Step: 4794
+Global Step: 4795
+Global Step: 4796
+Global Step: 4797
+Global Step: 4798
+Global Step: 4799
+Global Step: 4800
+Epoch 4, Batch 193, Loss: 24.219, LR: 0.000098
+Epoch 4:  14%|█▍        | 220/1536 [02:24<03:54,  5.62it/s]  
+Step 4800 Eval Loss: 103.602
+Global Step: 4801
+Global Step: 4802
+Global Step: 4803
+Global Step: 4804
+Global Step: 4805
+Global Step: 4806
+Global Step: 4807
+Global Step: 4808
+Global Step: 4809
+Global Step: 4810
+Epoch 4, Batch 203, Loss: 23.310, LR: 0.000098
+Global Step: 4811
+Global Step: 4812
+Global Step: 4813
+Global Step: 4814
+Global Step: 4815
+Global Step: 4816
+Global Step: 4817
+Global Step: 4818
+Global Step: 4819
+Global Step: 4820
+Epoch 4, Batch 213, Loss: 22.568, LR: 0.000098
+Global Step: 4821
+Global Step: 4822
+Global Step: 4823
+Global Step: 4824
+Global Step: 4825
+Global Step: 4826
+Global Step: 4827
+Global Step: 4828
+Global Step: 4829
+Global Step: 4830
+Epoch 4, Batch 223, Loss: 22.841, LR: 0.000098
+Global Step: 4831
+Global Step: 4832
+Global Step: 4833
+Global Step: 4834
+Global Step: 4835
+Global Step: 4836
+Global Step: 4837
+Global Step: 4838
+Global Step: 4839
+Global Step: 4840
+Epoch 4, Batch 233, Loss: 24.134, LR: 0.000098
+Global Step: 4841
+Global Step: 4842
+Global Step: 4843
+Global Step: 4844
+Global Step: 4845
+Global Step: 4846
+Global Step: 4847
+Global Step: 4848
+Global Step: 4849
+Global Step: 4850
+Epoch 4, Batch 243, Loss: 23.001, LR: 0.000098
+Epoch 4:  18%|█▊        | 270/1536 [02:55<04:08,  5.09it/s]  
+Step 4850 Eval Loss: 103.755
+Global Step: 4851
+Global Step: 4852
+Global Step: 4853
+Global Step: 4854
+Global Step: 4855
+Global Step: 4856
+Global Step: 4857
+Global Step: 4858
+Global Step: 4859
+Global Step: 4860
+Epoch 4, Batch 253, Loss: 24.194, LR: 0.000098
+Global Step: 4861
+Global Step: 4862
+Global Step: 4863
+Global Step: 4864
+Global Step: 4865
+Global Step: 4866
+Global Step: 4867
+Global Step: 4868
+Global Step: 4869
+Global Step: 4870
+Epoch 4, Batch 263, Loss: 22.702, LR: 0.000098
+Global Step: 4871
+Global Step: 4872
+Global Step: 4873
+Global Step: 4874
+Global Step: 4875
+Global Step: 4876
+Global Step: 4877
+Global Step: 4878
+Global Step: 4879
+Global Step: 4880
+Epoch 4, Batch 273, Loss: 24.608, LR: 0.000098
+Global Step: 4881
+Global Step: 4882
+Global Step: 4883
+Global Step: 4884
+Global Step: 4885
+Global Step: 4886
+Global Step: 4887
+Global Step: 4888
+Global Step: 4889
+Global Step: 4890
+Epoch 4, Batch 283, Loss: 23.323, LR: 0.000098
+Global Step: 4891
+Global Step: 4892
+Global Step: 4893
+Global Step: 4894
+Global Step: 4895
+Global Step: 4896
+Global Step: 4897
+Global Step: 4898
+Global Step: 4899
+Global Step: 4900
+Epoch 4, Batch 293, Loss: 24.667, LR: 0.000098
+Epoch 4:  21%|██        | 320/1536 [03:25<03:46,  5.37it/s]  
+Step 4900 Eval Loss: 103.679
+Global Step: 4901
+Global Step: 4902
+Global Step: 4903
+Global Step: 4904
+Global Step: 4905
+Global Step: 4906
+Global Step: 4907
+Global Step: 4908
+Global Step: 4909
+Global Step: 4910
+Epoch 4, Batch 303, Loss: 24.171, LR: 0.000098
+Global Step: 4911
+Global Step: 4912
+Global Step: 4913
+Global Step: 4914
+Global Step: 4915
+Global Step: 4916
+Global Step: 4917
+Global Step: 4918
+Global Step: 4919
+Global Step: 4920
+Epoch 4, Batch 313, Loss: 24.342, LR: 0.000098
+Global Step: 4921
+Global Step: 4922
+Global Step: 4923
+Global Step: 4924
+Global Step: 4925
+Global Step: 4926
+Global Step: 4927
+Global Step: 4928
+Global Step: 4929
+Global Step: 4930
+Epoch 4, Batch 323, Loss: 21.600, LR: 0.000098
+Global Step: 4931
+Global Step: 4932
+Global Step: 4933
+Global Step: 4934
+Global Step: 4935
+Global Step: 4936
+Global Step: 4937
+Global Step: 4938
+Global Step: 4939
+Global Step: 4940
+Epoch 4, Batch 333, Loss: 23.524, LR: 0.000098
+Global Step: 4941
+Global Step: 4942
+Global Step: 4943
+Global Step: 4944
+Global Step: 4945
+Global Step: 4946
+Global Step: 4947
+Global Step: 4948
+Global Step: 4949
+Global Step: 4950
+Epoch 4, Batch 343, Loss: 22.931, LR: 0.000098
+Epoch 4:  24%|██▍       | 369/1536 [03:55<04:15,  4.58it/s]  
+Step 4950 Eval Loss: 103.665
+Global Step: 4951
+Global Step: 4952
+Global Step: 4953
+Global Step: 4954
+Global Step: 4955
+Global Step: 4956
+Global Step: 4957
+Global Step: 4958
+Global Step: 4959
+Global Step: 4960
+Epoch 4, Batch 353, Loss: 23.122, LR: 0.000098
+Global Step: 4961
+Global Step: 4962
+Global Step: 4963
+Global Step: 4964
+Global Step: 4965
+Global Step: 4966
+Global Step: 4967
+Global Step: 4968
+Global Step: 4969
+Global Step: 4970
+Epoch 4, Batch 363, Loss: 23.921, LR: 0.000098
+Global Step: 4971
+Global Step: 4972
+Global Step: 4973
+Global Step: 4974
+Global Step: 4975
+Global Step: 4976
+Global Step: 4977
+Global Step: 4978
+Global Step: 4979
+Global Step: 4980
+Epoch 4, Batch 373, Loss: 24.096, LR: 0.000098
+Global Step: 4981
+Global Step: 4982
+Global Step: 4983
+Global Step: 4984
+Global Step: 4985
+Global Step: 4986
+Global Step: 4987
+Global Step: 4988
+Global Step: 4989
+Global Step: 4990
+Epoch 4, Batch 383, Loss: 21.277, LR: 0.000098
+Global Step: 4991
+Global Step: 4992
+Global Step: 4993
+Global Step: 4994
+Global Step: 4995
+Global Step: 4996
+Global Step: 4997
+Global Step: 4998
+Global Step: 4999
+Global Step: 5000
+Epoch 4, Batch 393, Loss: 23.897, LR: 0.000098
+Epoch 4:  27%|██▋       | 420/1536 [04:26<03:11,  5.84it/s]  
+Step 5000 Eval Loss: 103.701
+Global Step: 5001
+Global Step: 5002
+Global Step: 5003
+Global Step: 5004
+Global Step: 5005
+Global Step: 5006
+Global Step: 5007
+Global Step: 5008
+Global Step: 5009
+Global Step: 5010
+Epoch 4, Batch 403, Loss: 23.577, LR: 0.000098
+Global Step: 5011
+Global Step: 5012
+Global Step: 5013
+Global Step: 5014
+Global Step: 5015
+Global Step: 5016
+Global Step: 5017
+Global Step: 5018
+Global Step: 5019
+Global Step: 5020
+Epoch 4, Batch 413, Loss: 24.035, LR: 0.000098
+Global Step: 5021
+Global Step: 5022
+Global Step: 5023
+Global Step: 5024
+Global Step: 5025
+Global Step: 5026
+Global Step: 5027
+Global Step: 5028
+Global Step: 5029
+Global Step: 5030
+Epoch 4, Batch 423, Loss: 23.691, LR: 0.000098
+Global Step: 5031
+Global Step: 5032
+Global Step: 5033
+Global Step: 5034
+Global Step: 5035
+Global Step: 5036
+Global Step: 5037
+Global Step: 5038
+Global Step: 5039
+Global Step: 5040
+Epoch 4, Batch 433, Loss: 23.565, LR: 0.000098
+Global Step: 5041
+Global Step: 5042
+Global Step: 5043
+Global Step: 5044
+Global Step: 5045
+Global Step: 5046
+Global Step: 5047
+Global Step: 5048
+Global Step: 5049
+Global Step: 5050
+Epoch 4, Batch 443, Loss: 23.566, LR: 0.000098
+Epoch 4:  31%|███       | 470/1536 [04:57<03:18,  5.37it/s]  
+Step 5050 Eval Loss: 103.677
+Global Step: 5051
+Global Step: 5052
+Global Step: 5053
+Global Step: 5054
+Global Step: 5055
+Global Step: 5056
+Global Step: 5057
+Global Step: 5058
+Global Step: 5059
+Global Step: 5060
+Epoch 4, Batch 453, Loss: 23.557, LR: 0.000098
+Global Step: 5061
+Global Step: 5062
+Global Step: 5063
+Global Step: 5064
+Global Step: 5065
+Global Step: 5066
+Global Step: 5067
+Global Step: 5068
+Global Step: 5069
+Global Step: 5070
+Epoch 4, Batch 463, Loss: 23.361, LR: 0.000098
+Global Step: 5071
+Global Step: 5072
+Global Step: 5073
+Global Step: 5074
+Global Step: 5075
+Global Step: 5076
+Global Step: 5077
+Global Step: 5078
+Global Step: 5079
+Global Step: 5080
+Epoch 4, Batch 473, Loss: 23.506, LR: 0.000098
+Global Step: 5081
+Global Step: 5082
+Global Step: 5083
+Global Step: 5084
+Global Step: 5085
+Global Step: 5086
+Global Step: 5087
+Global Step: 5088
+Global Step: 5089
+Global Step: 5090
+Epoch 4, Batch 483, Loss: 23.103, LR: 0.000098
+Global Step: 5091
+Global Step: 5092
+Global Step: 5093
+Global Step: 5094
+Global Step: 5095
+Global Step: 5096
+Global Step: 5097
+Global Step: 5098
+Global Step: 5099
+Global Step: 5100
+Epoch 4, Batch 493, Loss: 23.970, LR: 0.000098
+Epoch 4:  34%|███▍      | 520/1536 [05:27<03:05,  5.49it/s]  
+Step 5100 Eval Loss: 103.715
+Global Step: 5101
+Global Step: 5102
+Global Step: 5103
+Global Step: 5104
+Global Step: 5105
+Global Step: 5106
+Global Step: 5107
+Global Step: 5108
+Global Step: 5109
+Global Step: 5110
+Epoch 4, Batch 503, Loss: 24.889, LR: 0.000098
+Global Step: 5111
+Global Step: 5112
+Global Step: 5113
+Global Step: 5114
+Global Step: 5115
+Global Step: 5116
+Global Step: 5117
+Global Step: 5118
+Global Step: 5119
+Global Step: 5120
+Epoch 4, Batch 513, Loss: 22.904, LR: 0.000098
+Global Step: 5121
+Global Step: 5122
+Global Step: 5123
+Global Step: 5124
+Global Step: 5125
+Global Step: 5126
+Global Step: 5127
+Global Step: 5128
+Global Step: 5129
+Global Step: 5130
+Epoch 4, Batch 523, Loss: 22.886, LR: 0.000098
+Global Step: 5131
+Global Step: 5132
+Global Step: 5133
+Global Step: 5134
+Global Step: 5135
+Global Step: 5136
+Global Step: 5137
+Global Step: 5138
+Global Step: 5139
+Global Step: 5140
+Epoch 4, Batch 533, Loss: 24.238, LR: 0.000098
+Global Step: 5141
+Global Step: 5142
+Global Step: 5143
+Global Step: 5144
+Global Step: 5145
+Global Step: 5146
+Global Step: 5147
+Global Step: 5148
+Global Step: 5149
+Global Step: 5150
+Epoch 4, Batch 543, Loss: 23.063, LR: 0.000098
+Epoch 4:  37%|███▋      | 570/1536 [05:58<02:53,  5.58it/s]  
+Step 5150 Eval Loss: 103.693
+Global Step: 5151
+Global Step: 5152
+Global Step: 5153
+Global Step: 5154
+Global Step: 5155
+Global Step: 5156
+Global Step: 5157
+Global Step: 5158
+Global Step: 5159
+Global Step: 5160
+Epoch 4, Batch 553, Loss: 23.628, LR: 0.000098
+Global Step: 5161
+Global Step: 5162
+Global Step: 5163
+Global Step: 5164
+Global Step: 5165
+Global Step: 5166
+Global Step: 5167
+Global Step: 5168
+Global Step: 5169
+Global Step: 5170
+Epoch 4, Batch 563, Loss: 22.810, LR: 0.000098
+Global Step: 5171
+Global Step: 5172
+Global Step: 5173
+Global Step: 5174
+Global Step: 5175
+Global Step: 5176
+Global Step: 5177
+Global Step: 5178
+Global Step: 5179
+Global Step: 5180
+Epoch 4, Batch 573, Loss: 24.083, LR: 0.000098
+Global Step: 5181
+Global Step: 5182
+Global Step: 5183
+Global Step: 5184
+Global Step: 5185
+Global Step: 5186
+Global Step: 5187
+Global Step: 5188
+Global Step: 5189
+Global Step: 5190
+Epoch 4, Batch 583, Loss: 23.283, LR: 0.000098
+Global Step: 5191
+Global Step: 5192
+Global Step: 5193
+Global Step: 5194
+Global Step: 5195
+Global Step: 5196
+Global Step: 5197
+Global Step: 5198
+Global Step: 5199
+Global Step: 5200
+Epoch 4, Batch 593, Loss: 23.501, LR: 0.000098
+Epoch 4:  40%|████      | 620/1536 [06:28<02:35,  5.89it/s]  
+Step 5200 Eval Loss: 103.694
+Global Step: 5201
+Global Step: 5202
+Global Step: 5203
+Global Step: 5204
+Global Step: 5205
+Global Step: 5206
+Global Step: 5207
+Global Step: 5208
+Global Step: 5209
+Global Step: 5210
+Epoch 4, Batch 603, Loss: 22.972, LR: 0.000098
+Global Step: 5211
+Global Step: 5212
+Global Step: 5213
+Global Step: 5214
+Global Step: 5215
+Global Step: 5216
+Global Step: 5217
+Global Step: 5218
+Global Step: 5219
+Global Step: 5220
+Epoch 4, Batch 613, Loss: 23.746, LR: 0.000098
+Global Step: 5221
+Global Step: 5222
+Global Step: 5223
+Global Step: 5224
+Global Step: 5225
+Global Step: 5226
+Global Step: 5227
+Global Step: 5228
+Global Step: 5229
+Global Step: 5230
+Epoch 4, Batch 623, Loss: 23.614, LR: 0.000098
+Global Step: 5231
+Global Step: 5232
+Global Step: 5233
+Global Step: 5234
+Global Step: 5235
+Global Step: 5236
+Global Step: 5237
+Global Step: 5238
+Global Step: 5239
+Global Step: 5240
+Epoch 4, Batch 633, Loss: 22.592, LR: 0.000098
+Global Step: 5241
+Global Step: 5242
+Global Step: 5243
+Global Step: 5244
+Global Step: 5245
+Global Step: 5246
+Global Step: 5247
+Global Step: 5248
+Global Step: 5249
+Global Step: 5250
+Epoch 4, Batch 643, Loss: 21.255, LR: 0.000098
+Epoch 4:  44%|████▎     | 670/1536 [06:59<02:27,  5.89it/s]  
+Step 5250 Eval Loss: 103.603
+Global Step: 5251
+Global Step: 5252
+Global Step: 5253
+Global Step: 5254
+Global Step: 5255
+Global Step: 5256
+Global Step: 5257
+Global Step: 5258
+Global Step: 5259
+Global Step: 5260
+Epoch 4, Batch 653, Loss: 22.694, LR: 0.000098
+Global Step: 5261
+Global Step: 5262
+Global Step: 5263
+Global Step: 5264
+Global Step: 5265
+Global Step: 5266
+Global Step: 5267
+Global Step: 5268
+Global Step: 5269
+Global Step: 5270
+Epoch 4, Batch 663, Loss: 22.813, LR: 0.000098
+Global Step: 5271
+Global Step: 5272
+Global Step: 5273
+Global Step: 5274
+Global Step: 5275
+Global Step: 5276
+Global Step: 5277
+Global Step: 5278
+Global Step: 5279
+Global Step: 5280
+Epoch 4, Batch 673, Loss: 24.741, LR: 0.000098
+Global Step: 5281
+Global Step: 5282
+Global Step: 5283
+Global Step: 5284
+Global Step: 5285
+Global Step: 5286
+Global Step: 5287
+Global Step: 5288
+Global Step: 5289
+Global Step: 5290
+Epoch 4, Batch 683, Loss: 23.010, LR: 0.000098
+Global Step: 5291
+Global Step: 5292
+Global Step: 5293
+Global Step: 5294
+Global Step: 5295
+Global Step: 5296
+Global Step: 5297
+Global Step: 5298
+Global Step: 5299
+Global Step: 5300
+Epoch 4, Batch 693, Loss: 24.639, LR: 0.000098
+Epoch 4:  47%|████▋     | 720/1536 [07:29<02:34,  5.27it/s]  
+Step 5300 Eval Loss: 103.689
+Global Step: 5301
+Global Step: 5302
+Global Step: 5303
+Global Step: 5304
+Global Step: 5305
+Global Step: 5306
+Global Step: 5307
+Global Step: 5308
+Global Step: 5309
+Global Step: 5310
+Epoch 4, Batch 703, Loss: 23.639, LR: 0.000098
+Global Step: 5311
+Global Step: 5312
+Global Step: 5313
+Global Step: 5314
+Global Step: 5315
+Global Step: 5316
+Global Step: 5317
+Global Step: 5318
+Global Step: 5319
+Global Step: 5320
+Epoch 4, Batch 713, Loss: 24.436, LR: 0.000098
+Global Step: 5321
+Global Step: 5322
+Global Step: 5323
+Global Step: 5324
+Global Step: 5325
+Global Step: 5326
+Global Step: 5327
+Global Step: 5328
+Global Step: 5329
+Global Step: 5330
+Epoch 4, Batch 723, Loss: 24.627, LR: 0.000098
+Global Step: 5331
+Global Step: 5332
+Global Step: 5333
+Global Step: 5334
+Global Step: 5335
+Global Step: 5336
+Global Step: 5337
+Global Step: 5338
+Global Step: 5339
+Global Step: 5340
+Epoch 4, Batch 733, Loss: 22.528, LR: 0.000098
+Global Step: 5341
+Global Step: 5342
+Global Step: 5343
+Global Step: 5344
+Global Step: 5345
+Global Step: 5346
+Global Step: 5347
+Global Step: 5348
+Global Step: 5349
+Global Step: 5350
+Epoch 4, Batch 743, Loss: 23.166, LR: 0.000098
+Epoch 4:  50%|█████     | 770/1536 [08:00<02:13,  5.74it/s]  
+Step 5350 Eval Loss: 103.590
+Global Step: 5351
+Global Step: 5352
+Global Step: 5353
+Global Step: 5354
+Global Step: 5355
+Global Step: 5356
+Global Step: 5357
+Global Step: 5358
+Global Step: 5359
+Global Step: 5360
+Epoch 4, Batch 753, Loss: 24.324, LR: 0.000098
+Global Step: 5361
+Global Step: 5362
+Global Step: 5363
+Global Step: 5364
+Global Step: 5365
+Global Step: 5366
+Global Step: 5367
+Global Step: 5368
+Global Step: 5369
+Global Step: 5370
+Epoch 4, Batch 763, Loss: 24.596, LR: 0.000098
+Global Step: 5371
+Global Step: 5372
+Global Step: 5373
+Global Step: 5374
+Global Step: 5375
+Global Step: 5376
+Global Step: 5377
+Global Step: 5378
+Global Step: 5379
+Global Step: 5380
+Epoch 4, Batch 773, Loss: 23.284, LR: 0.000098
+Global Step: 5381
+Global Step: 5382
+Global Step: 5383
+Global Step: 5384
+Global Step: 5385
+Global Step: 5386
+Global Step: 5387
+Global Step: 5388
+Global Step: 5389
+Global Step: 5390
+Epoch 4, Batch 783, Loss: 23.619, LR: 0.000098
+Global Step: 5391
+Global Step: 5392
+Global Step: 5393
+Global Step: 5394
+Global Step: 5395
+Global Step: 5396
+Global Step: 5397
+Global Step: 5398
+Global Step: 5399
+Global Step: 5400
+Epoch 4, Batch 793, Loss: 24.778, LR: 0.000098
+Epoch 4:  53%|█████▎    | 820/1536 [08:30<01:56,  6.16it/s]  
+Step 5400 Eval Loss: 103.673
+Global Step: 5401
+Global Step: 5402
+Global Step: 5403
+Global Step: 5404
+Global Step: 5405
+Global Step: 5406
+Global Step: 5407
+Global Step: 5408
+Global Step: 5409
+Global Step: 5410
+Epoch 4, Batch 803, Loss: 23.008, LR: 0.000098
+Global Step: 5411
+Global Step: 5412
+Global Step: 5413
+Global Step: 5414
+Global Step: 5415
+Global Step: 5416
+Global Step: 5417
+Global Step: 5418
+Global Step: 5419
+Global Step: 5420
+Epoch 4, Batch 813, Loss: 23.845, LR: 0.000098
+Global Step: 5421
+Global Step: 5422
+Global Step: 5423
+Global Step: 5424
+Global Step: 5425
+Global Step: 5426
+Global Step: 5427
+Global Step: 5428
+Global Step: 5429
+Global Step: 5430
+Epoch 4, Batch 823, Loss: 23.448, LR: 0.000098
+Global Step: 5431
+Global Step: 5432
+Global Step: 5433
+Global Step: 5434
+Global Step: 5435
+Global Step: 5436
+Global Step: 5437
+Global Step: 5438
+Global Step: 5439
+Global Step: 5440
+Epoch 4, Batch 833, Loss: 23.907, LR: 0.000098
+Global Step: 5441
+Global Step: 5442
+Global Step: 5443
+Global Step: 5444
+Global Step: 5445
+Global Step: 5446
+Global Step: 5447
+Global Step: 5448
+Global Step: 5449
+Global Step: 5450
+Epoch 4, Batch 843, Loss: 23.639, LR: 0.000098
+Epoch 4:  57%|█████▋    | 870/1536 [09:02<02:20,  4.73it/s]  
+Step 5450 Eval Loss: 103.703
+Global Step: 5451
+Global Step: 5452
+Global Step: 5453
+Global Step: 5454
+Global Step: 5455
+Global Step: 5456
+Global Step: 5457
+Global Step: 5458
+Global Step: 5459
+Global Step: 5460
+Epoch 4, Batch 853, Loss: 24.895, LR: 0.000098
+Global Step: 5461
+Global Step: 5462
+Global Step: 5463
+Global Step: 5464
+Global Step: 5465
+Global Step: 5466
+Global Step: 5467
+Global Step: 5468
+Global Step: 5469
+Global Step: 5470
+Epoch 4, Batch 863, Loss: 23.244, LR: 0.000098
+Global Step: 5471
+Global Step: 5472
+Global Step: 5473
+Global Step: 5474
+Global Step: 5475
+Global Step: 5476
+Global Step: 5477
+Global Step: 5478
+Global Step: 5479
+Global Step: 5480
+Epoch 4, Batch 873, Loss: 24.042, LR: 0.000098
+Global Step: 5481
+Global Step: 5482
+Global Step: 5483
+Global Step: 5484
+Global Step: 5485
+Global Step: 5486
+Global Step: 5487
+Global Step: 5488
+Global Step: 5489
+Global Step: 5490
+Epoch 4, Batch 883, Loss: 21.960, LR: 0.000098
+Global Step: 5491
+Global Step: 5492
+Global Step: 5493
+Global Step: 5494
+Global Step: 5495
+Global Step: 5496
+Global Step: 5497
+Global Step: 5498
+Global Step: 5499
+Global Step: 5500
+Epoch 4, Batch 893, Loss: 24.595, LR: 0.000098
+Epoch 4:  58%|█████▊    | 892/1536 [09:27<06:49,  1.57it/s]
+5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d6.29.55dc3a68c-e34e-4080-9c3e-2a532b2ccb4d
