@@ -37,10 +37,12 @@ Evaluate the trained model:
 📄 Citation
 Please cite the original paper if you use this work:
 ```bib
-@inproceedings{yang2023difftori,
+@article{wan2025difftori,
   title={DiffTORI: Differentiable Trajectory Optimization for Deep Reinforcement and Imitation Learning},
-  author={Yang, Fanbo and Florence, Pete and Pham, Huy and Tompson, Jonathan and Kalakrishnan, Mrinal and Sermanet, Pierre},
-  booktitle={Conference on Robot Learning (CoRL)},
-  year={2023}
+  author={Wan, Weikang and Wang, Ziyu and Wang, Yufei and Erickson, Zackory and Held, David},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={109430--109459},
+  year={2025}
 }
 ```
